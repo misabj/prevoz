@@ -11,9 +11,7 @@ export function StatisticsSection() {
   return (
     <section className="py-8 bg-accent text-white">
       <div className="container mx-auto px-4">
-        <h2 className="text-3xl md:text-4xl font-display text-center text-white mb-4">
-          {t("title")}
-        </h2>
+        
         <div className="grid grid-cols-2 md:grid-cols-4 gap-4 md:gap-8">
           {keys.map((key, index) => (
             <motion.div
