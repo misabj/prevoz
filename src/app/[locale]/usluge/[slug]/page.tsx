@@ -57,6 +57,7 @@ export default async function ServiceDetailPage({
                 src={service.image}
                 alt={t(`${slug}.title`)}
                 fill
+                sizes="(max-width: 1024px) 100vw, 50vw"
                 className="object-cover"
               />
             </div>

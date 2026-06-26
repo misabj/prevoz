@@ -48,6 +48,9 @@ export function FleetSection() {
               src="/images/fleet/hearse-1.jpg"
               alt="Modern funeral hearse in our fleet"
               fill
+              sizes="(max-width: 1024px) 100vw, 50vw"
+              loading="eager"
+              priority
               className="object-cover"
             />
           </motion.div>

@@ -48,6 +48,7 @@ export default async function FleetPage({
                     src={vehicle.image}
                     alt={tVehicles(`${vehicle.id}.name`)}
                     fill
+                    sizes="(max-width: 768px) 100vw, 50vw"
                     className="object-cover"
                   />
                 </div>
@@ -95,6 +96,7 @@ export default async function FleetPage({
                 src="/images/fleet/hearse-5.jpg"
                 alt="Funeral vehicle safety and equipment"
                 fill
+                sizes="(max-width: 1024px) 100vw, 50vw"
                 className="object-cover"
               />
             </div>

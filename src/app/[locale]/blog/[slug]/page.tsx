@@ -61,6 +61,7 @@ export default async function BlogDetailPage({
               src={post.image}
               alt={t(`${slug}.title`)}
               fill
+              sizes="100vw"
               className="object-cover"
             />
           </div>

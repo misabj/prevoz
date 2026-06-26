@@ -25,6 +25,7 @@ export function InternationalTransportSection() {
               src="/images/hero/europe-1.jpg"
               alt="European city representing international transport coverage"
               fill
+              sizes="(max-width: 1024px) 100vw, 50vw"
               className="object-cover"
             />
           </motion.div>
