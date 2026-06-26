@@ -1,0 +1,723 @@
+{
+  "metadata": {
+    "home": {
+      "title": "Internationale Überführung von Verstorbenen und Bestattungsdienstleistungen | [NAZIV FIRME]",
+      "description": "Zuverlässige Betreuung und komplette Organisation von Transport, Dokumentation und Bestattungsdienstleistungen im In- und Ausland. Rund um die Uhr erreichbar."
+    },
+    "about": {
+      "title": "Über uns | [NAZIV FIRME]",
+      "description": "Lernen Sie [NAZIV FIRME] kennen – ein Team, das sich Würde, Professionalität und zuverlässige internationale Unterstützung für Familien in schwierigen Zeiten widmet."
+    },
+    "services": {
+      "title": "Leistungen | [NAZIV FIRME]",
+      "description": "Überblick über alle Bestattungsdienstleistungen: internationale Überführung von Verstorbenen, Dokumentation, Bestattungsorganisation, Bestattungszubehör und Blumengestecke."
+    },
+    "internationalTransport": {
+      "title": "Internationale Überführung von Verstorbenen | [NAZIV FIRME]",
+      "description": "Wir organisieren die Überführung von Verstorbenen aus Deutschland, Österreich, der Schweiz, Italien, Frankreich und anderen europäischen Ländern. Schnell, diskret und professionell."
+    },
+    "documentation": {
+      "title": "Dokumentation und Verwaltung | [NAZIV FIRME]",
+      "description": "Wir übernehmen die gesamte Dokumentation und Verwaltung, die für die internationale Überführung von Verstorbenen erforderlich ist. Fachkundige Hilfe rund um die Uhr verfügbar."
+    },
+    "fleet": {
+      "title": "Fuhrpark | [NAZIV FIRME]",
+      "description": "Moderne Spezialfahrzeuge für die internationale Überführung von Verstorbenen. Sichere, hygienische und klimatisierte Fahrzeuge in höchstem Standard."
+    },
+    "video": {
+      "title": "Videogalerie | [NAZIV FIRME]",
+      "description": "Sehen Sie sich unsere Ratgeber, Informationen zu Abläufen und die Vorstellung der Leistungen von [NAZIV FIRME] auf YouTube an."
+    },
+    "blog": {
+      "title": "Blog und nützliche Informationen | [NAZIV FIRME]",
+      "description": "Hilfreiche Artikel zur internationalen Überführung von Verstorbenen, Dokumentation und Vorgehensweisen im Todesfall im Ausland."
+    },
+    "contact": {
+      "title": "Kontakt | [NAZIV FIRME]",
+      "description": "Kontaktieren Sie [NAZIV FIRME] rund um die Uhr. Telefon, WhatsApp, E-Mail oder Kontaktformular – wir sind für Sie da."
+    },
+    "faq": {
+      "title": "Häufig gestellte Fragen | [NAZIV FIRME]",
+      "description": "Antworten auf die häufigsten Fragen zur internationalen Überführung von Verstorbenen, Dokumentation, Zeitrahmen und Kosten."
+    },
+    "privacy": {
+      "title": "Datenschutzerklärung | [NAZIV FIRME]",
+      "description": "Datenschutzerklärung von [NAZIV FIRME]. Erfahren Sie, wie wir Ihre persönlichen Daten erheben, speichern und verwenden."
+    },
+    "terms": {
+      "title": "Nutzungsbedingungen | [NAZIV FIRME]",
+      "description": "Nutzungsbedingungen der Website und der Leistungen von [NAZIV FIRME]."
+    }
+  },
+  "navigation": {
+    "home": "Startseite",
+    "about": "Über uns",
+    "services": "Leistungen",
+    "fleet": "Fuhrpark",
+    "video": "Video",
+    "blog": "Blog",
+    "contact": "Kontakt",
+    "faq": "FAQ",
+    "privacy": "Datenschutz",
+    "terms": "Nutzungsbedingungen",
+    "internationalTransport": "Internationale Überführung",
+    "documentation": "Dokumentation und Verwaltung"
+  },
+  "emergencyBar": {
+    "available": "Rund um die Uhr erreichbar",
+    "callUs": "Rufen Sie uns an",
+    "whatsapp": "WhatsApp",
+    "email": "E-Mail"
+  },
+  "header": {
+    "cta": "Rufen Sie uns 24/7 an",
+    "menu": "Menü",
+    "close": "Schließen"
+  },
+  "footer": {
+    "description": "Wir bieten Familien würdevolle und professionelle Unterstützung bei der Organisation der internationalen Überführung von Verstorbenen sowie Bestattungsdienstleistungen.",
+    "services": "Leistungen",
+    "information": "Informationen",
+    "contact": "Kontakt",
+    "social": "Soziale Medien",
+    "youtube": "YouTube",
+    "copyright": "© {year} [NAZIV FIRME]. Alle Rechte vorbehalten.",
+    "phone": "Telefon",
+    "address": "Adresse"
+  },
+  "common": {
+    "readMore": "Mehr erfahren",
+    "viewAll": "Alle anzeigen",
+    "contactUs": "Kontaktieren Sie uns",
+    "sendInquiry": "Anfrage senden",
+    "callNow": "Jetzt anrufen",
+    "learnMore": "Weiterlesen",
+    "watchVideo": "Video ansehen",
+    "all": "Alle",
+    "search": "Suche",
+    "categories": "Kategorien",
+    "relatedArticles": "Verwandte Artikel",
+    "open": "Öffnen",
+    "close": "Schließen",
+    "next": "Weiter",
+    "previous": "Zurück",
+    "loading": "Wird geladen...",
+    "error": "Ein Fehler ist aufgetreten",
+    "success": "Erfolgreich gesendet",
+    "required": "Pflichtfeld",
+    "submit": "Senden",
+    "sending": "Wird gesendet..."
+  },
+  "services": {
+    "title": "Unsere Leistungen",
+    "subtitle": "Komplette Betreuung für internationale Überführung und Bestattungsdienstleistungen",
+    "description": "Wir bieten ein breites Spektrum an Leistungen, die auf die Bedürfnisse jeder Familie zugeschnitten sind. Von internationalem Transport und Verwaltung bis zur Bestattungsorganisation und Blumengestecke.",
+    "items": {
+      "medjunarodni-prevoz-pokojnika": {
+        "title": "Internationale Überführung von Verstorbenen",
+        "description": "Sicherer und würdevoller Transport von Verstorbenen von Land zu Land, inklusive kompletter administrativer Unterstützung."
+      },
+      "prevoz-pokojnika-iz-inostranstva": {
+        "title": "Überführung aus dem Ausland",
+        "description": "Wir organisieren den Transport aus allen europäischen Ländern nach Serbien, mit schneller Reaktion und fachkundiger Hilfe."
+      },
+      "prevoz-pokojnika-u-srbiji": {
+        "title": "Transport von Verstorbenen in Serbien",
+        "description": "Lokaler Transport von Verstorbenen innerhalb Serbiens, mit allen erforderlichen Genehmigungen und Standards."
+      },
+      "administracija-i-dokumentacija": {
+        "title": "Verwaltung und Dokumentation",
+        "description": "Wir übernehmen die komplette Bearbeitung von Unterlagen, Übersetzungen, Konsulaten und Kommunikation mit Behörden."
+      },
+      "organizacija-sahrane": {
+        "title": "Bestattungsorganisation",
+        "description": "Wir unterstützen Sie bei der Organisation der gesamten Trauerfeier in Absprache mit der Familie."
+      },
+      "pogrebna-oprema": {
+        "title": "Bestattungszubehör",
+        "description": "Wir bieten qualitativ hochwertiges Bestattungszubehör, angepasst an Tradition und die Wünsche der Familie."
+      },
+      "cvetni-aranzmani": {
+        "title": "Blumengestecke",
+        "description": "Diskrete und elegante Blumengestecke für einen würdevollen Abschied."
+      },
+      "naplata-pogrebnih-troskova": {
+        "title": "Erstattung von Bestattungskosten",
+        "description": "Wir helfen Ihnen bei der Kostenrückführung von Versicherungen, Pensionskassen und anderen Quellen."
+      }
+    }
+  },
+  "about": {
+    "title": "Über uns",
+    "subtitle": "Eine Familie, die Sie in den schwierigsten Momenten unterstützt",
+    "story": {
+      "title": "Unsere Geschichte",
+      "paragraphs": [
+        "[NAZIV FIRME] ist ein Familienunternehmen, das sich der Bereitstellung würdevoller und professioneller Bestattungsdienstleistungen widmet, mit besonderem Fokus auf die internationale Überführung von Verstorbenen.",
+        "Seit Jahren helfen wir Familien in Serbien und im Ausland, den Transport ihrer verstorbenen Angehörigen mit Respekt, Diskretion und größter Sorgfalt zu organisieren.",
+        "Wir wissen, wie schwer dieser Moment ist. Deshalb erfolgt jeder Schritt mit Empathie, Klarheit und Transparenz, damit Sie auf eine Unterstützung vertrauen können, auf die Sie zählen können."
+      ]
+    },
+    "mission": {
+      "title": "Mission und Werte",
+      "values": {
+        "professionalism": {
+          "title": "Professionalität",
+          "description": "Jede Aufgabe führen wir präzise, fachkundig und nach internationalen Standards aus."
+        },
+        "dignity": {
+          "title": "Würde",
+          "description": "Wir respektieren jede Familie und jeden Verstorbenen, mit völliger Diskretion und Menschlichkeit."
+        },
+        "reliability": {
+          "title": "Zuverlässigkeit",
+          "description": "Wir sind rund um die Uhr erreichbar und erfüllen jede mit der Familie getroffene Vereinbarung."
+        },
+        "experience": {
+          "title": "Erfahrung",
+          "description": "Langjährige Erfahrung in internationaler Logistik und Verwaltung machen uns zur vertrauensvollen Wahl."
+        }
+      }
+    },
+    "stats": {
+      "title": "Zahlen, die für sich sprechen",
+      "description": "Unsere Erfahrung ist die Garantie für Qualität und Sicherheit in jeder Situation."
+    }
+  },
+  "fleet": {
+    "title": "Fuhrpark",
+    "subtitle": "Spezialfahrzeuge für würdevollen Transport",
+    "description": "Unsere Fahrzeuge sind technisch einwandfrei, regelmäßig gewartet und an die strengsten internationalen Standards für den Transport von Verstorbenen angepasst.",
+    "safety": {
+      "title": "Sicherheit und Hygiene an erster Stelle",
+      "description": "Alle Fahrzeuge sind mit Klimaanlage, Temperaturregelung und höchsten Hygienestandards ausgestattet. Sie unterliegen regelmäßigen technischen Inspektionen und Desinfektionen.",
+      "items": [
+        "Technisch einwandfreie und regelmäßig gewartete Fahrzeuge",
+        "Klimatisierter und hygienisch geschützter Raum",
+        "Internationale Transportgenehmigung",
+        "Erfahrene Fahrer, geschult für würdevollen Transport"
+      ]
+    },
+    "items": {
+      "mercedes-sprinter": {
+        "name": "Mercedes-Benz Sprinter",
+        "description": "Spezialfahrzeug für die internationale Überführung von Verstorbenen, mit klimatisiertem und hygienisch geschütztem Raum."
+      },
+      "volkswagen-transporter": {
+        "name": "Volkswagen Transporter",
+        "description": "Zuverlässiges und wirtschaftliches Fahrzeug, ideal für kürzere internationale und nationale Strecken."
+      },
+      "fiat-ducato": {
+        "name": "Fiat Ducato",
+        "description": "Geräumiges Fahrzeug mit hohem Komfort- und Sicherheitsstandard während des Transports."
+      },
+      "renault-master": {
+        "name": "Renault Master",
+        "description": "Modernes Fahrzeug, ausgestattet für lange internationale Strecken unter Einhaltung aller Vorschriften."
+      }
+    }
+  },
+  "video": {
+    "title": "Videogalerie",
+    "subtitle": "Sehen Sie sich unsere Ratgeber, Informationen zu Abläufen und die Vorstellung unserer Leistungen an",
+    "intro": "Unser YouTube-Kanal ist der Ort, an dem wir nützliche Informationen, Ratgeber und Vorstellungen unserer Leistungen teilen. Überzeugen Sie sich selbst von Qualität und Professionalität unserer Arbeit.",
+    "categories": {
+      "all": "Alle",
+      "tips": "Ratgeber",
+      "documentation": "Dokumentation",
+      "fleet": "Fuhrpark",
+      "services": "Leistungen"
+    },
+    "cta": "Alle Videos auf YouTube ansehen",
+    "items": {
+      "video-1": {
+        "title": "Wie die internationale Überführung von Verstorbenen abläuft",
+        "description": "Wir erklären den gesamten Ablauf der Organisation eines Transports aus dem Ausland, vom Anruf bis zur Ankunft."
+      },
+      "video-2": {
+        "title": "Erforderliche Dokumentation für den Transport",
+        "description": "Welche Unterlagen vorbereitet werden müssen und wie wir bei deren Beschaffung helfen."
+      },
+      "video-3": {
+        "title": "Vorstellung unserer Leistungen",
+        "description": "Ein kurzer Überblick über alle Leistungen, die wir Familien in schwierigen Zeiten bieten."
+      },
+      "video-4": {
+        "title": "Fuhrpark und Standards",
+        "description": "Lernen Sie unsere Spezialfahrzeuge und die von uns angewandten Hygienestandards kennen."
+      },
+      "video-5": {
+        "title": "Ratgeber für Familien im Ausland",
+        "description": "Nützliche Ratschläge für den Umgang im Todesfall eines nahen Angehörigen im Ausland."
+      },
+      "video-6": {
+        "title": "Anzeigeverfahren und Verwaltung",
+        "description": "Wie das Anzeigeverfahren aussieht und wie unser Team die Dokumentation übernimmt."
+      }
+    }
+  },
+  "blog": {
+    "title": "Blog und nützliche Informationen",
+    "subtitle": "Ratgeber und wichtige Informationen für Familien",
+    "searchPlaceholder": "Artikel durchsuchen...",
+    "categories": {
+      "all": "Alle Kategorien",
+      "transport": "Transport",
+      "documentation": "Dokumentation",
+      "advice": "Ratgeber"
+    },
+    "readTime": "Min. Lesezeit",
+    "relatedArticles": "Verwandte Artikel",
+    "articles": {
+      "kako-organizovati-prevoz-pokojnika-iz-inostranstva": {
+        "title": "Wie organisiert man die Überführung eines Verstorbenen aus dem Ausland?",
+        "excerpt": "Die Organisation einer internationalen Überführung eines Verstorbenen mag kompliziert erscheinen, aber mit fachkundiger Hilfe kann der gesamte Ablauf schnell und würdevoll verlaufen.",
+        "content": [
+          "Der Verlust eines geliebten Menschen im Ausland bringt viele Herausforderungen mit sich, sowohl emotional als auch verwaltungstechnisch. Der erste Schritt besteht darin, einen Fachdienst zu kontaktieren, der Ihnen den Ablauf erklärt und bei den weiteren Schritten hilft.",
+          "Nach der Erfassung grundlegender Informationen übernimmt unser Team die Kommunikation mit Behörden, Konsulaten und anderen Stellen. Die erforderliche Dokumentation wird vorbereitet, und anschließend wird der Transport terminiert.",
+          "Der Zeitaufwand für die Organisation hängt vom Land ab, in dem sich der Verstorbene befindet, sowie davon, wie schnell Genehmigungen erteilt werden. In den meisten Fällen kann der gesamte Prozess innerhalb weniger Tage abgeschlossen werden."
+        ]
+      },
+      "koja-dokumentacija-je-potrebna-za-medjunarodni-prevoz": {
+        "title": "Welche Dokumentation wird für die internationale Überführung benötigt?",
+        "excerpt": "Für die internationale Überführung eines Verstorbenen sind mehrere wichtige Unterlagen erforderlich. Hier erfahren Sie, was benötigt wird und wie wir bei der Beschaffung helfen.",
+        "content": [
+          "Zu den grundlegenden Unterlagen gehören die ärztliche Todesursachenbescheinigung, der Reisepass des Verstorbenen sowie eine von den zuständigen Behörden des Landes, in dem der Tod eingetreten ist, ausgestellte Transportgenehmigung.",
+          "Darüber hinaus werden häufig Übersetzungen und Beglaubigungen von Unterlagen sowie Bescheinigungen über Beerdigung oder Einäscherung benötigt. Unser Team übernimmt die komplette Bearbeitung der Unterlagen und stellt sicher, dass alle Dokumente vollständig sind.",
+          "Die Familie muss in der Regel nur die persönlichen Unterlagen des Verstorbenen und ihre eigenen Angaben zur Verfügung stellen. Alles andere übernehmen wir."
+        ]
+      },
+      "sta-uraditi-u-sucaju-smrti-u-inostranstvu": {
+        "title": "Was tun im Todesfall im Ausland?",
+        "excerpt": "Der Tod eines geliebten Menschen im Ausland ist ein äußerst schwerer Moment. Erfahren Sie, welche ersten Schritte zu tun sind und wie Sie fachkundige Hilfe erhalten.",
+        "content": [
+          "Zunächst sollten Sie die örtlichen Rettungsdienste und die Polizei in dem Land kontaktieren, in dem der Vorfall passiert ist. Anschließend muss das nächstgelegene Konsulat der Republik Serbien informiert werden.",
+          "Das Konsulat kann bei Informationen und den erforderlichen Unterlagen helfen. Gleichzeitig können Sie ein spezialisiertes Unternehmen für internationale Überführung von Verstorbenen kontaktieren.",
+          "Unser Team ist rund um die Uhr erreichbar und kann Ihnen Anleitungen geben, den Transport organisieren und die gesamte Verwaltung übernehmen."
+        ]
+      },
+      "troskovi-medjunarodnog-prevoza-pokojnika": {
+        "title": "Kosten der internationalen Überführung eines Verstorbenen",
+        "excerpt": "Die Kosten einer internationalen Überführung hängen von mehreren Faktoren ab. Wir erklären, was den Gesamtbetrag beeinflusst und wie Sie eine genaue Kostenschätzung erhalten.",
+        "content": [
+          "Die wichtigsten Faktoren, die den Preis beeinflussen, sind die Entfernung zwischen den Ländern, die Art des Transports, die Dokumentation, Zoll- und Konsulatsgebühren sowie eventuelle zusätzliche Wünsche der Familie.",
+          "Jede Situation ist spezifisch, daher empfehlen wir, uns für eine individuelle Kostenschätzung zu kontaktieren. Anhand grundlegender Informationen können wir Ihnen innerhalb weniger Stunden einen Richtpreis nennen.",
+          "Wir bemühen uns um Transparenz und erklären der Familie alle Kostenpositionen vor Beginn der Organisation."
+        ]
+      },
+      "kako-izabrati-pogrebno-preduzece": {
+        "title": "Wie wählt man ein Bestattungsunternehmen aus?",
+        "excerpt": "Die Wahl eines zuverlässigen Bestattungsunternehmens ist eine wichtige Entscheidung. Hier erfahren Sie, worauf Sie bei der Auswahl achten sollten.",
+        "content": [
+          "Prüfen Sie zunächst die Erfahrung und Referenzen des Unternehmens. Wichtig ist, dass das Unternehmen Erfahrung in internationaler Überführung und Verwaltung hat, falls Sie dies benötigen.",
+          "Achten Sie außerdem auf die Erreichbarkeit – ein zuverlässiges Unternehmen sollte rund um die Uhr erreichbar sein, besonders in Notfällen.",
+          "Wählen Sie schließlich ein Unternehmen, das Ihnen klare Kommunikation, ein einfühlsames Verhalten und Transparenz im Geschäftsbetrieb bietet."
+        ]
+      }
+    }
+  },
+  "contact": {
+    "title": "Kontaktieren Sie uns",
+    "subtitle": "Wir sind rund um die Uhr für Sie da. Senden Sie eine Anfrage, rufen Sie an oder schreiben Sie uns über WhatsApp.",
+    "form": {
+      "title": "Anfrage senden",
+      "description": "Füllen Sie das Formular aus und wir werden uns so schnell wie möglich bei Ihnen melden.",
+      "name": "Vor- und Nachname",
+      "phone": "Telefon",
+      "email": "E-Mail-Adresse",
+      "country": "Land, aus dem der Transport organisiert wird",
+      "city": "Stadt",
+      "message": "Nachricht",
+      "privacy": "Ich akzeptiere die",
+      "privacyLink": "Datenschutzerklärung",
+      "success": "Vielen Dank für Ihr Vertrauen. Wir werden uns so schnell wie möglich bei Ihnen melden.",
+      "errors": {
+        "nameRequired": "Bitte geben Sie Ihren Vor- und Nachnamen ein",
+        "phoneRequired": "Bitte geben Sie Ihre Telefonnummer ein",
+        "emailInvalid": "Bitte geben Sie eine gültige E-Mail-Adresse ein",
+        "messageRequired": "Bitte geben Sie eine Nachricht ein",
+        "privacyRequired": "Sie müssen die Datenschutzerklärung akzeptieren"
+      }
+    },
+    "cards": {
+      "phone": {
+        "title": "Telefon 24/7",
+        "description": "Wir sind rund um die Uhr für Notfälle und Beratungen erreichbar."
+      },
+      "whatsapp": {
+        "title": "WhatsApp",
+        "description": "Schreiben Sie uns jederzeit über WhatsApp."
+      },
+      "email": {
+        "title": "E-Mail",
+        "description": "Senden Sie uns eine detaillierte Anfrage und wir antworten Ihnen umgehend."
+      },
+      "address": {
+        "title": "Adresse",
+        "description": "Unser Büro befindet sich im Zentrum von Belgrad."
+      }
+    }
+  },
+  "faq": {
+    "title": "Häufig gestellte Fragen",
+    "subtitle": "Antworten auf die häufigsten Fragen zu unseren Leistungen",
+    "description": "Bei weiteren Fragen können Sie uns gerne kontaktieren. Wir sind für Sie da.",
+    "items": {
+      "availability": {
+        "question": "Sind Sie rund um die Uhr erreichbar?",
+        "answer": "Ja, unsere Leistungen sind rund um die Uhr, sieben Tage die Woche, einschließlich Wochenenden und Feiertagen verfügbar. Sie können uns jederzeit bei Dringlichkeit anrufen."
+      },
+      "countries": {
+        "question": "Aus welchen Ländern organisieren Sie den Transport?",
+        "answer": "Wir organisieren den Transport aus allen europäischen Ländern, darunter Deutschland, Österreich, die Schweiz, Italien, Frankreich, Belgien, die Niederlande, Schweden, Norwegen und viele andere."
+      },
+      "documentation": {
+        "question": "Übernehmen Sie die Abwicklung der Dokumentation?",
+        "answer": "Ja, wir übernehmen die gesamte Verwaltung, einschließlich der Kommunikation mit Konsulaten, Übersetzungen, Beglaubigungen und der Einholung aller erforderlichen Genehmigungen."
+      },
+      "duration": {
+        "question": "Wie lange dauert die Organisation des Transports?",
+        "answer": "Die Dauer hängt vom Land und der Geschwindigkeit der Ausstellung von Genehmigungen ab, aber in den meisten Fällen kann der Transport innerhalb von 2 bis 5 Werktagen organisiert werden."
+      },
+      "costs": {
+        "question": "Wie kann ich eine Kostenschätzung erhalten?",
+        "answer": "Sie können uns anrufen oder das Kontaktformular ausfüllen. Basierend auf Land, Stadt und grundlegenden Informationen erhalten Sie eine kostenlose und unverbindliche Kostenschätzung."
+      },
+      "preparation": {
+        "question": "Was muss die Familie vorbereiten?",
+        "answer": "Die Familie muss in der Regel nur die persönlichen Unterlagen des Verstorbenen und ihre Kontaktdaten zur Verfügung stellen. Um alle weiteren Unterlagen und die Logistik kümmern wir uns."
+      }
+    }
+  },
+  "privacy": {
+    "title": "Datenschutzerklärung",
+    "lastUpdated": "Zuletzt aktualisiert: Juni 2026.",
+    "intro": "[NAZIV FIRME] verpflichtet sich, die Privatsphäre aller Website-Nutzer und Kunden zu schützen. Diese Erklärung erklärt, wie wir Ihre persönlichen Daten erheben, verwenden und speichern.",
+    "sections": {
+      "data": {
+        "title": "Welche Daten wir erheben",
+        "content": "Wir erheben nur die für die Erbringung unserer Leistungen erforderlichen Daten: Vor- und Nachname, Telefonnummer, E-Mail-Adresse, Land und Stadt, aus dem der Transport organisiert wird, sowie den Inhalt Ihrer Nachricht."
+      },
+      "use": {
+        "title": "Wie wir Ihre Daten verwenden",
+        "content": "Wir verwenden Ihre Daten ausschließlich für Kommunikation, die Erstellung eines Angebots und die Organisation der von Ihnen angeforderten Leistungen. Ohne Ihre Zustimmung geben wir Ihre Daten nicht an Dritte weiter."
+      },
+      "cookies": {
+        "title": "Cookies",
+        "content": "Die Website kann grundlegende Cookies verwenden, die für die Funktionalität und Analyse erforderlich sind. Sie können Cookies in den Einstellungen Ihres Browsers steuern."
+      },
+      "rights": {
+        "title": "Ihre Rechte",
+        "content": "Sie haben das Recht, Auskunft über Ihre persönlichen Daten zu verlangen, diese zu berichtigen oder zu löschen. Kontaktieren Sie uns per E-Mail oder Telefon."
+      }
+    }
+  },
+  "terms": {
+    "title": "Nutzungsbedingungen",
+    "lastUpdated": "Zuletzt aktualisiert: Juni 2026.",
+    "intro": "Durch die Nutzung der Website von [NAZIV FIRME] akzeptieren Sie die folgenden Bedingungen. Bitte lesen Sie diese Seite sorgfältig durch.",
+    "sections": {
+      "general": {
+        "title": "Allgemeine Bestimmungen",
+        "content": "Die Inhalte der Website dienen ausschließlich Informationszwecken. Wir bemühen uns um größtmögliche Genauigkeit und Aktualität der Informationen, können jedoch zu jedem Zeitpunkt keine Vollständigkeit garantieren."
+      },
+      "services": {
+        "title": "Leistungen",
+        "content": "Alle Leistungen werden auf Grundlage einer separaten Vereinbarung mit der Familie erbracht. Die Kosten der Leistungen hängen vom Land, der Entfernung, der Dokumentation und zusätzlichen Anforderungen ab."
+      },
+      "liability": {
+        "title": "Haftungsbeschränkung",
+        "content": "[NAZIV FIRME] haftet für Handlungen innerhalb seiner Befugnisse und gesetzlichen Verpflichtungen. Wir haften nicht für Verzögerungen, die auf unvorhersehbare Umstände oder unvollständige Informationen zurückzuführen sind, die uns übermittelt wurden."
+      },
+      "contact": {
+        "title": "Kontakt",
+        "content": "Bei Fragen zu den Nutzungsbedingungen kontaktieren Sie uns bitte über die Kontaktseite."
+      }
+    }
+  },
+  "home": {
+    "hero": {
+      "title": "Internationale Überführung von Verstorbenen und Bestattungsdienstleistungen",
+      "subtitle": "Zuverlässige Betreuung und komplette Organisation von Transport, Dokumentation und Bestattungsdienstleistungen im In- und Ausland.",
+      "ctaPrimary": "Jetzt anrufen",
+      "ctaSecondary": "Anfrage senden",
+      "availability": "Rund um die Uhr, sieben Tage die Woche erreichbar",
+      "trust": "Diskret. Professionell. Zuverlässig."
+    },
+    "serviceCards": {
+      "title": "Unsere Leistungen",
+      "subtitle": "Schnelle und professionelle Unterstützung, wenn Sie sie am meisten brauchen",
+      "items": {
+        "international": {
+          "title": "Internationale Überführung von Verstorbenen",
+          "description": "Wir organisieren den sicheren und würdevollen Transport von Verstorbenen aus allen europäischen Ländern nach Serbien und umgekehrt."
+        },
+        "europe": {
+          "title": "Transport aus europäischen Ländern",
+          "description": "Wir sind spezialisiert auf Überführungen aus Deutschland, Österreich, der Schweiz, Italien, Frankreich und anderen Ländern."
+        },
+        "documentation": {
+          "title": "Abwicklung der Dokumentation",
+          "description": "Wir übernehmen die gesamte Verwaltung, Konsulate, Übersetzungen und rechtliche Verfahren, die für den Transport erforderlich sind."
+        },
+        "equipment": {
+          "title": "Bestattungszubehör und Organisation",
+          "description": "Wir bieten komplettes Bestattungszubehör, Blumengestecke und die Organisation der Trauerfeier nach Ihren Wünschen."
+        }
+      }
+    },
+    "whyChooseUs": {
+      "title": "Warum Familien uns wählen",
+      "subtitle": "Wir engagieren uns dafür, Ihnen in den schwierigsten Momenten alles zu erleichtern",
+      "items": {
+        "availability": {
+          "title": "Rund um die Uhr erreichbar",
+          "description": "Wir sind zu jeder Tages- und Nachtzeit, an Wochenenden und Feiertagen für Sie da."
+        },
+        "response": {
+          "title": "Schnelle Reaktion und Eilentsendung",
+          "description": "Wir reagieren schnell und organisieren alles Erforderliche in kürzester Zeit."
+        },
+        "team": {
+          "title": "Erfahrenes internationales Team",
+          "description": "Unser Team verfügt über langjährige Erfahrung im internationalen Transport und in der Verwaltung."
+        },
+        "documentation": {
+          "title": "Komplette Dokumentation",
+          "description": "Wir übernehmen die gesamte Bearbeitung von Unterlagen und Kommunikation mit Behörden im In- und Ausland."
+        },
+        "vehicles": {
+          "title": "Moderne Spezialfahrzeuge",
+          "description": "Unsere Fahrzeuge sind technisch einwandfrei, klimatisiert und an internationale Standards angepasst."
+        },
+        "approach": {
+          "title": "Diskreter und menschlicher Ansatz",
+          "description": "Wir tun alles mit Empathie und respektieren die Privatsphäre und Würde jeder Familie."
+        }
+      }
+    },
+    "processSteps": {
+      "title": "Wie der Ablauf funktioniert",
+      "subtitle": "Ein einfacher und transparenter Vorgang in vier Schritten",
+      "steps": {
+        "1": {
+          "title": "Rufen Sie uns an",
+          "description": "Rufen Sie uns jederzeit an. Sie erhalten sofort fachkundige Unterstützung und Beratung."
+        },
+        "2": {
+          "title": "Vereinbarung und Einschätzung",
+          "description": "Gemeinsam klären wir Details, Land, Zeitrahmen und geschätzte Kosten der Leistung."
+        },
+        "3": {
+          "title": "Organisation von Dokumentation und Transport",
+          "description": "Wir übernehmen Verwaltung, Genehmigungen und Logistik des Transports."
+        },
+        "4": {
+          "title": "Sichere Ankunft und Abschluss der Leistung",
+          "description": "Der Verstorbene erreicht das gewünschte Ziel unter Einhaltung aller Vorschriften und Bräuche."
+        }
+      }
+    },
+    "internationalTransport": {
+      "title": "Internationale Überführung",
+      "subtitle": "Wir organisieren die Überführung von Verstorbenen aus den meisten europäischen Ländern",
+      "description": "Ob Deutschland, Österreich, die Schweiz oder ein anderes Land – wir bieten komplette Organisation von Transport und Dokumentation.",
+      "countries": [
+        "Transport aus Deutschland",
+        "Transport aus Österreich",
+        "Transport aus der Schweiz",
+        "Transport aus Italien",
+        "Transport aus Frankreich",
+        "Transport aus anderen europäischen Ländern"
+      ],
+      "cta": "Alle Leistungen anzeigen"
+    },
+    "fleet": {
+      "title": "Fuhrpark",
+      "subtitle": "Spezialfahrzeuge für internationale Überführung",
+      "description": "Unsere Fahrzeuge sind regelmäßig gewartet, technisch einwandfrei, klimatisiert und nach höchsten hygienischen und Sicherheitsstandards ausgestattet.",
+      "cta": "Fuhrpark ansehen"
+    },
+    "statistics": {
+      "title": "Erfahrung, auf die Sie sich verlassen können",
+      "items": {
+        "availability": {
+          "value": "24/7",
+          "label": "Erreichbarkeit"
+        },
+        "experience": {
+          "value": "20+",
+          "label": "Jahre Erfahrung"
+        },
+        "countries": {
+          "value": "30+",
+          "label": "Länder abgedeckt"
+        },
+        "transports": {
+          "value": "1000+",
+          "label": "durchgeführte Überführungen"
+        }
+      }
+    },
+    "videoGallery": {
+      "title": "Videogalerie",
+      "subtitle": "Sehen Sie sich unsere Ratgeber, Informationen zu Abläufen und Leistungsvorstellungen an",
+      "cta": "Alle Videos auf YouTube ansehen"
+    },
+    "blogPreview": {
+      "title": "Nützliche Informationen",
+      "subtitle": "Ratgeber und wichtige Informationen für Familien",
+      "cta": "Alle Artikel anzeigen"
+    },
+    "faqPreview": {
+      "title": "Häufig gestellte Fragen",
+      "subtitle": "Antworten auf die wichtigsten Fragen"
+    },
+    "contactCTA": {
+      "title": "Brauchen Sie Hilfe? Wir sind rund um die Uhr für Sie da.",
+      "subtitle": "Rufen Sie uns an, senden Sie uns eine Nachricht über WhatsApp oder füllen Sie das Kontaktformular aus."
+    }
+  },
+  "internationalTransportPage": {
+    "hero": {
+      "title": "Internationale Überführung von Verstorbenen",
+      "subtitle": "Würdevolle und sichere Überführung von Verstorbenen aus allen Teilen Europas, mit kompletter Organisation von Dokumentation und Logistik."
+    },
+    "intro": {
+      "title": "Professionelle Transportorganisation",
+      "paragraphs": [
+        "Die internationale Überführung von Verstorbenen erfordert Fachwissen, Liebe zum Detail und die Einhaltung der gesetzlichen Vorschriften mehrerer Länder. Unser Team verfügt über langjährige Erfahrung in der Organisation dieser Transporte.",
+        "Wir bieten Familien komplette Unterstützung vom ersten Kontakt bis zum Abschluss der Leistung. Wir übernehmen die Kommunikation mit Behörden, Konsulaten und anderen Stellen, damit Sie sich auf das Wichtigste konzentrieren können."
+      ]
+    },
+    "countries": {
+      "title": "Überführung von Verstorbenen aus Europa",
+      "subtitle": "Wir organisieren den Transport aus den meisten europäischen Ländern",
+      "items": [
+        {
+          "name": "Deutschland",
+          "description": "Schnelle Organisation des Transports aus allen deutschen Bundesländern."
+        },
+        {
+          "name": "Österreich",
+          "description": "Komplette Verwaltung und Logistik für den Transport aus Österreich."
+        },
+        {
+          "name": "Schweiz",
+          "description": "Organisation des Transports unter Einhaltung der schweizerischen Vorschriften."
+        },
+        {
+          "name": "Italien",
+          "description": "Transport aus allen Teilen Italiens, einschließlich der entlegensten Regionen."
+        },
+        {
+          "name": "Frankreich",
+          "description": "Professionelle Organisation des Transports aus Frankreich."
+        },
+        {
+          "name": "Belgien",
+          "description": "Schnelle Reaktion und Organisation des Transports aus Belgien."
+        },
+        {
+          "name": "Niederlande",
+          "description": "Komplette Unterstützung für den Transport aus den Niederlanden."
+        },
+        {
+          "name": "Schweden",
+          "description": "Organisation des Transports aus Schweden gemäß den geltenden Vorschriften."
+        },
+        {
+          "name": "Norwegen",
+          "description": "Würdevolle Überführung von Verstorbenen aus Norwegen."
+        },
+        {
+          "name": "Andere europäische Länder",
+          "description": "Kontaktieren Sie uns für den Transport aus jedem anderen europäischen Land."
+        }
+      ]
+    },
+    "process": {
+      "title": "Wie der Ablauf funktioniert",
+      "steps": [
+        {
+          "title": "Kontakt",
+          "description": "Rufen Sie uns jederzeit an. Wir erfassen die grundlegenden Informationen und erklären den Ablauf."
+        },
+        {
+          "title": "Dokumentation",
+          "description": "Wir übernehmen die Vorbereitung und Beglaubigung aller erforderlichen Unterlagen."
+        },
+        {
+          "title": "Transport",
+          "description": "Wir organisieren den sicheren Transport mit einem Spezialfahrzeug zum gewünschten Zielort."
+        },
+        {
+          "title": "Abschluss",
+          "description": "Der Verstorbene erreicht das Ziel, und wir schließen die restliche Verwaltung ab."
+        }
+      ]
+    },
+    "documentation": {
+      "title": "Erforderliche Dokumentation",
+      "intro": "Für die internationale Überführung eines Verstorbenen ist eine bestimmte Dokumentation erforderlich. Wir helfen Ihnen bei jedem Schritt.",
+      "items": [
+        "Ärztliche Todesursachenbescheinigung",
+        "Reisepass oder Personalausweis des Verstorbenen",
+        "Von den zuständigen Behörden ausgestellte Transportgenehmigung",
+        "Übersetzungen und Beglaubigungen von Unterlagen",
+        "Bescheinigungen von Konsulaten und anderen Institutionen"
+      ]
+    },
+    "cta": {
+      "title": "Brauchen Sie Hilfe beim Transport?",
+      "subtitle": "Kontaktieren Sie uns rund um die Uhr. Wir sind für Sie da."
+    }
+  },
+  "documentationPage": {
+    "hero": {
+      "title": "Dokumentation und Verwaltung",
+      "subtitle": "Wir übernehmen die gesamte Bearbeitung von Unterlagen und die Kommunikation mit Behörden, damit Sie eine Sorge weniger haben."
+    },
+    "sections": {
+      "whatWeHandle": {
+        "title": "Welche Dokumentation wir übernehmen",
+        "paragraphs": [
+          "Für die internationale Überführung eines Verstorbenen ist eine umfangreiche Dokumentation erforderlich, einschließlich ärztlicher Bescheinigungen, Genehmigungen, Reisepässe, Übersetzungen und Beglaubigungen. Unser Team hat Erfahrung im Umgang mit all diesen Unterlagen.",
+          "Wir kommunizieren mit lokalen Behörden, Konsulaten, Krankenhäusern, Friedhöfen und anderen Institutionen im In- und Ausland. Unser Ziel ist es, den Ablauf für die Familie so schnell und stressfrei wie möglich zu gestalten."
+        ],
+        "items": [
+          "Einholen ärztlicher Bescheinigungen und Berichte",
+          "Beschaffung von Transportgenehmigungen",
+          "Übersetzungen und Beglaubigungen von Unterlagen",
+          "Kommunikation mit Konsulaten und Botschaften",
+          "Vorbereitung von Zoll- und Transportunterlagen"
+        ]
+      },
+      "procedure": {
+        "title": "Wie die Prozedur abläuft",
+        "paragraphs": [
+          "Nach dem ersten Kontakt analysieren wir die Situation und ermitteln, welche Unterlagen im konkreten Fall benötigt werden. Anschließend übernehmen wir die Kommunikation mit allen zuständigen Behörden.",
+          "Wir informieren die Familie regelmäßig über den Fortschritt und klären alle Unsicherheiten sofort. Sobald die Dokumentation bereitsteht, terminieren wir den Transport."
+        ]
+      },
+      "whyHelp": {
+        "title": "Warum fachkundige Hilfe wichtig ist",
+        "paragraphs": [
+          "Unrichtige oder unvollständige Unterlagen können zu Verzögerungen des Transports und zusätzlichen Kosten führen. Deshalb ist es wichtig, einen erfahrenen Partner zu haben, der den Ablauf kennt.",
+          "Unser Team kennt die Vorschriften verschiedener Länder und weiß, wie sich Verwaltungsherausforderungen effizient lösen lassen."
+        ]
+      },
+      "family": {
+        "title": "Was die Familie vorbereiten muss",
+        "paragraphs": [
+          "Die Familie muss in der Regel nur grundlegende Angaben zum Verstorbenen machen, wie Vorname, Nachname, Geburtsdatum, Staatsangehörigkeit und Reisepass- oder Personalausweisnummer.",
+          "In manchen Fällen ist auch eine Vollmacht oder ein Nachweis des Verwandtschaftsverhältnisses erforderlich. Wir weisen Sie detailliert an, was konkret benötigt wird."
+        ]
+      }
+    },
+    "cta": {
+      "title": "Senden Sie uns eine Anfrage für Hilfe bei der Dokumentation",
+      "subtitle": "Wir sind hier, um die gesamte Verwaltung in Ihrem Namen zu übernehmen."
+    }
+  }
+}

@@ -1,0 +1,723 @@
+{
+  "metadata": {
+    "home": {
+      "title": "International Repatriation of the Deceased and Funeral Services | [NAZIV FIRME]",
+      "description": "Reliable support and complete organisation of transport, documentation and funeral services at home and abroad. Available 24/7."
+    },
+    "about": {
+      "title": "About Us | [NAZIV FIRME]",
+      "description": "Meet [NAZIV FIRME] – a team dedicated to dignity, professionalism and dependable international support for families in difficult times."
+    },
+    "services": {
+      "title": "Services | [NAZIV FIRME]",
+      "description": "Overview of all funeral services: international repatriation of the deceased, documentation, funeral organisation, funeral supplies and floral arrangements."
+    },
+    "internationalTransport": {
+      "title": "International Repatriation of the Deceased | [NAZIV FIRME]",
+      "description": "We organise the repatriation of the deceased from Germany, Austria, Switzerland, Italy, France and other European countries. Swift, discreet and professional."
+    },
+    "documentation": {
+      "title": "Documentation and Administration | [NAZIV FIRME]",
+      "description": "We handle all documentation and administration required for international repatriation. Expert assistance available 24/7."
+    },
+    "fleet": {
+      "title": "Fleet | [NAZIV FIRME]",
+      "description": "Modern specialised vehicles for international repatriation of the deceased. Safe, hygienic and climate-controlled vehicles of the highest standard."
+    },
+    "video": {
+      "title": "Video Gallery | [NAZIV FIRME]",
+      "description": "Watch our advice, procedural information and presentation of [NAZIV FIRME] services on YouTube."
+    },
+    "blog": {
+      "title": "Blog and Useful Information | [NAZIV FIRME]",
+      "description": "Helpful articles on international repatriation of the deceased, documentation and procedures in the event of a death abroad."
+    },
+    "contact": {
+      "title": "Contact | [NAZIV FIRME]",
+      "description": "Contact [NAZIV FIRME] 24 hours a day. Phone, WhatsApp, email or contact form – we are here to help you."
+    },
+    "faq": {
+      "title": "Frequently Asked Questions | [NAZIV FIRME]",
+      "description": "Answers to the most common questions about international repatriation of the deceased, documentation, timeframes and costs."
+    },
+    "privacy": {
+      "title": "Privacy Policy | [NAZIV FIRME]",
+      "description": "Privacy policy of [NAZIV FIRME]. Learn how we collect, store and use your personal data."
+    },
+    "terms": {
+      "title": "Terms of Use | [NAZIV FIRME]",
+      "description": "Terms of use of the website and services of [NAZIV FIRME]."
+    }
+  },
+  "navigation": {
+    "home": "Home",
+    "about": "About Us",
+    "services": "Services",
+    "fleet": "Fleet",
+    "video": "Video",
+    "blog": "Blog",
+    "contact": "Contact",
+    "faq": "FAQ",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Use",
+    "internationalTransport": "International Repatriation",
+    "documentation": "Documentation and Administration"
+  },
+  "emergencyBar": {
+    "available": "Available 24/7",
+    "callUs": "Call us",
+    "whatsapp": "WhatsApp",
+    "email": "Email"
+  },
+  "header": {
+    "cta": "Call us 24/7",
+    "menu": "Menu",
+    "close": "Close"
+  },
+  "footer": {
+    "description": "We provide dignified and professional support to families in organising international repatriation of the deceased and funeral services.",
+    "services": "Services",
+    "information": "Information",
+    "contact": "Contact",
+    "social": "Social Media",
+    "youtube": "YouTube",
+    "copyright": "© {year} [NAZIV FIRME]. All rights reserved.",
+    "phone": "Phone",
+    "address": "Address"
+  },
+  "common": {
+    "readMore": "Learn more",
+    "viewAll": "View all",
+    "contactUs": "Contact us",
+    "sendInquiry": "Send an inquiry",
+    "callNow": "Call us now",
+    "learnMore": "Read more",
+    "watchVideo": "Watch video",
+    "all": "All",
+    "search": "Search",
+    "categories": "Categories",
+    "relatedArticles": "Related articles",
+    "open": "Open",
+    "close": "Close",
+    "next": "Next",
+    "previous": "Previous",
+    "loading": "Loading...",
+    "error": "An error has occurred",
+    "success": "Sent successfully",
+    "required": "Required field",
+    "submit": "Send",
+    "sending": "Sending..."
+  },
+  "services": {
+    "title": "Our Services",
+    "subtitle": "Complete support for international repatriation and funeral services",
+    "description": "We provide a wide range of services tailored to the needs of each family. From international transport and administration to funeral organisation and floral arrangements.",
+    "items": {
+      "medjunarodni-prevoz-pokojnika": {
+        "title": "International Repatriation of the Deceased",
+        "description": "Safe and dignified transport of the deceased from country to country, with complete administrative support."
+      },
+      "prevoz-pokojnika-iz-inostranstva": {
+        "title": "Repatriation from Abroad",
+        "description": "We organise transport from all European countries to Serbia, with rapid response and expert assistance."
+      },
+      "prevoz-pokojnika-u-srbiji": {
+        "title": "Transport of the Deceased in Serbia",
+        "description": "Local transport of the deceased within Serbia, with all necessary permits and standards."
+      },
+      "administracija-i-dokumentacija": {
+        "title": "Administration and Documentation",
+        "description": "We handle all paperwork, translations, consulates and communication with institutions."
+      },
+      "organizacija-sahrane": {
+        "title": "Funeral Organisation",
+        "description": "We assist in organising the entire funeral ceremony in agreement with the family."
+      },
+      "pogrebna-oprema": {
+        "title": "Funeral Supplies",
+        "description": "We offer quality funeral supplies adapted to tradition and the wishes of the family."
+      },
+      "cvetni-aranzmani": {
+        "title": "Floral Arrangements",
+        "description": "Discreet and elegant floral arrangements for a dignified farewell."
+      },
+      "naplata-pogrebnih-troskova": {
+        "title": "Funeral Expense Reimbursement",
+        "description": "We assist in recovering costs from insurance, pension funds and other sources."
+      }
+    }
+  },
+  "about": {
+    "title": "About Us",
+    "subtitle": "A family that supports you in the most difficult moments",
+    "story": {
+      "title": "Our Story",
+      "paragraphs": [
+        "[NAZIV FIRME] is a family company dedicated to providing dignified and professional funeral services, with a special focus on international repatriation of the deceased.",
+        "For years, we have helped families in Serbia and abroad to organise the transport of their loved one with respect, discretion and meticulous attention to detail.",
+        "We understand how difficult this moment is. That is why every step is taken with empathy, clarity and transparency, so you have support you can rely on."
+      ]
+    },
+    "mission": {
+      "title": "Mission and Values",
+      "values": {
+        "professionalism": {
+          "title": "Professionalism",
+          "description": "Every task is carried out precisely, expertly and in accordance with international standards."
+        },
+        "dignity": {
+          "title": "Dignity",
+          "description": "We respect every family and every deceased person, with complete discretion and humanity."
+        },
+        "reliability": {
+          "title": "Reliability",
+          "description": "We are available 24/7 and fulfil every commitment agreed with the family."
+        },
+        "experience": {
+          "title": "Experience",
+          "description": "Many years of experience in international logistics and administration make us a trusted choice."
+        }
+      }
+    },
+    "stats": {
+      "title": "Numbers That Speak",
+      "description": "Our experience is a guarantee of quality and security in every situation."
+    }
+  },
+  "fleet": {
+    "title": "Fleet",
+    "subtitle": "Specialised vehicles for dignified transport",
+    "description": "Our vehicles are technically flawless, regularly serviced and adapted to the strictest international standards for the transport of the deceased.",
+    "safety": {
+      "title": "Safety and Hygiene Come First",
+      "description": "All vehicles are equipped with air conditioning, temperature control systems and the highest level of hygiene standards. They undergo regular technical inspections and disinfection.",
+      "items": [
+        "Technically sound and regularly serviced vehicles",
+        "Air-conditioned and hygienically protected space",
+        "International transport permit",
+        "Experienced drivers trained in dignified transport"
+      ]
+    },
+    "items": {
+      "mercedes-sprinter": {
+        "name": "Mercedes-Benz Sprinter",
+        "description": "Specialised vehicle for international repatriation of the deceased, with air-conditioned and hygienically protected space."
+      },
+      "volkswagen-transporter": {
+        "name": "Volkswagen Transporter",
+        "description": "Reliable and economical vehicle, ideal for shorter international and domestic routes."
+      },
+      "fiat-ducato": {
+        "name": "Fiat Ducato",
+        "description": "Spacious vehicle with high standards of comfort and safety during transport."
+      },
+      "renault-master": {
+        "name": "Renault Master",
+        "description": "Modern vehicle equipped for long international routes in compliance with all regulations."
+      }
+    }
+  },
+  "video": {
+    "title": "Video Gallery",
+    "subtitle": "Watch our advice, procedural information and presentation of our services",
+    "intro": "Our YouTube channel is where we share useful information, advice and presentations of our services. See the quality and professionalism of our work for yourself.",
+    "categories": {
+      "all": "All",
+      "tips": "Advice",
+      "documentation": "Documentation",
+      "fleet": "Fleet",
+      "services": "Services"
+    },
+    "cta": "Watch all videos on YouTube",
+    "items": {
+      "video-1": {
+        "title": "How International Repatriation of the Deceased Works",
+        "description": "We explain the entire process of organising transport from abroad, from the call to arrival."
+      },
+      "video-2": {
+        "title": "Documentation Required for Transport",
+        "description": "Which documents need to be prepared and how we help arrange them."
+      },
+      "video-3": {
+        "title": "Introduction to Our Services",
+        "description": "A brief overview of all the services we provide to families in difficult times."
+      },
+      "video-4": {
+        "title": "Fleet and Standards",
+        "description": "Meet our specialised vehicles and the hygiene standards we apply."
+      },
+      "video-5": {
+        "title": "Advice for Families Abroad",
+        "description": "Useful advice on what to do in the event of the death of a close person abroad."
+      },
+      "video-6": {
+        "title": "Reporting Procedure and Administration",
+        "description": "What the reporting procedure looks like and how our team takes over the documentation."
+      }
+    }
+  },
+  "blog": {
+    "title": "Blog and Useful Information",
+    "subtitle": "Advice and important information for families",
+    "searchPlaceholder": "Search articles...",
+    "categories": {
+      "all": "All categories",
+      "transport": "Transport",
+      "documentation": "Documentation",
+      "advice": "Advice"
+    },
+    "readTime": "min read",
+    "relatedArticles": "Related articles",
+    "articles": {
+      "kako-organizovati-prevoz-pokojnika-iz-inostranstva": {
+        "title": "How to Organise Repatriation of the Deceased from Abroad?",
+        "excerpt": "Organising international repatriation of the deceased may seem complicated, but with expert help the entire process can proceed quickly and with dignity.",
+        "content": [
+          "Losing a loved one abroad brings many challenges, both emotional and administrative. The first step is to contact a professional service that will explain the procedure and help with next steps.",
+          "After gathering basic information, our team takes over communication with institutions, consulates and other authorities. The necessary documentation is prepared, and transport is then scheduled.",
+          "The time required for organisation depends on the country where the deceased is located and how quickly permits are issued. In the majority of cases, the entire process can be completed within a few days."
+        ]
+      },
+      "koja-dokumentacija-je-potrebna-za-medjunarodni-prevoz": {
+        "title": "What Documentation Is Required for International Repatriation?",
+        "excerpt": "Several key documents are required for international repatriation of the deceased. Here is what is needed and how we help arrange them.",
+        "content": [
+          "The basic documents include a medical certificate of cause of death, the deceased's passport, and a transport permit issued by the authorities of the country where death occurred.",
+          "In addition, document translations, certifications, and burial or cremation certificates are often required. Our team handles all the paperwork and ensures every document is in order.",
+          "The family usually only needs to provide the deceased's personal documents and their own details. We take care of everything else."
+        ]
+      },
+      "sta-uraditi-u-sucaju-smrti-u-inostranstvu": {
+        "title": "What to Do in the Event of a Death Abroad?",
+        "excerpt": "The death of a loved one abroad is an extremely difficult moment. Find out what the first steps are and how to get expert help.",
+        "content": [
+          "The first thing to do is contact local emergency services and police in the country where the incident occurred. After that, the nearest consular service of the Republic of Serbia should be notified.",
+          "The consular service can help with information and the necessary documents. At the same time, you can contact a specialised company for international repatriation of the deceased.",
+          "Our team is available 24/7 and can provide guidance, organise transport and handle all administration."
+        ]
+      },
+      "troskovi-medjunarodnog-prevoza-pokojnika": {
+        "title": "Costs of International Repatriation of the Deceased",
+        "excerpt": "The cost of international repatriation depends on several factors. We explain what affects the total amount and how to get an accurate estimate.",
+        "content": [
+          "The main factors affecting the price are the distance between countries, the type of transport, documentation, customs and consular fees, as well as any additional family requests.",
+          "Every situation is specific, so we recommend contacting us for an individual estimate. Based on basic information we can give you an approximate price within a few hours.",
+          "We strive to be transparent and explain all cost items to the family before organisation begins."
+        ]
+      },
+      "kako-izabrati-pogrebno-preduzece": {
+        "title": "How to Choose a Funeral Company?",
+        "excerpt": "Choosing a reliable funeral company is an important decision. Here is what to pay attention to when selecting one.",
+        "content": [
+          "First of all, check the company's experience and references. It is important that the company has experience in international repatriation and administration if you need it.",
+          "Also, pay attention to availability – a reliable company should be available 24/7, especially in emergencies.",
+          "Finally, choose a company that provides clear communication, an empathetic approach and transparency in its operations."
+        ]
+      }
+    }
+  },
+  "contact": {
+    "title": "Contact Us",
+    "subtitle": "We are here for you 24 hours a day. Send an inquiry, call or write to us via WhatsApp.",
+    "form": {
+      "title": "Send an inquiry",
+      "description": "Fill in the form and we will get back to you as soon as possible.",
+      "name": "Full name",
+      "phone": "Phone",
+      "email": "Email address",
+      "country": "Country from which transport is organised",
+      "city": "City",
+      "message": "Message",
+      "privacy": "I accept the",
+      "privacyLink": "privacy policy",
+      "success": "Thank you for your trust. We will get back to you as soon as possible.",
+      "errors": {
+        "nameRequired": "Please enter your full name",
+        "phoneRequired": "Please enter your phone number",
+        "emailInvalid": "Please enter a valid email address",
+        "messageRequired": "Please enter a message",
+        "privacyRequired": "You must accept the privacy policy"
+      }
+    },
+    "cards": {
+      "phone": {
+        "title": "Phone 24/7",
+        "description": "We are available around the clock for emergencies and consultations."
+      },
+      "whatsapp": {
+        "title": "WhatsApp",
+        "description": "Write to us on WhatsApp at any time."
+      },
+      "email": {
+        "title": "Email",
+        "description": "Send us a detailed inquiry and we will respond promptly."
+      },
+      "address": {
+        "title": "Address",
+        "description": "Our office is located in the centre of Belgrade."
+      }
+    }
+  },
+  "faq": {
+    "title": "Frequently Asked Questions",
+    "subtitle": "Answers to the most common questions about our services",
+    "description": "If you have further questions, please feel free to contact us. We are here to help you.",
+    "items": {
+      "availability": {
+        "question": "Are you available 24/7?",
+        "answer": "Yes, our services are available 24 hours a day, 7 days a week, including weekends and holidays. You can always call us in case of urgency."
+      },
+      "countries": {
+        "question": "From which countries do you organise transport?",
+        "answer": "We organise transport from all European countries, including Germany, Austria, Switzerland, Italy, France, Belgium, the Netherlands, Sweden, Norway and many others."
+      },
+      "documentation": {
+        "question": "Do you handle documentation arrangements?",
+        "answer": "Yes, we handle all administration, including communication with consulates, translations, certifications and collecting all necessary permits."
+      },
+      "duration": {
+        "question": "How long does it take to organise transport?",
+        "answer": "The time depends on the country and the speed of permit issuance, but in most cases transport can be organised within 2 to 5 working days."
+      },
+      "costs": {
+        "question": "How can I get a cost estimate?",
+        "answer": "You can call us or fill in the contact form. Based on the country, city and basic information, you will receive a free and non-binding estimate."
+      },
+      "preparation": {
+        "question": "What does the family need to prepare?",
+        "answer": "The family usually only needs to provide the deceased's personal documents and their contact details. We take care of all other documentation and logistics."
+      }
+    }
+  },
+  "privacy": {
+    "title": "Privacy Policy",
+    "lastUpdated": "Last updated: June 2026.",
+    "intro": "[NAZIV FIRME] is committed to protecting the privacy of all website users and clients. This policy explains how we collect, use and store your personal data.",
+    "sections": {
+      "data": {
+        "title": "What data we collect",
+        "content": "We collect only the data necessary to provide our services: full name, contact phone, email address, country and city from which transport is organised, as well as the content of your message."
+      },
+      "use": {
+        "title": "How we use your data",
+        "content": "We use your data solely for communication, preparing a quote and organising the services you have requested. We do not share your data with third parties without your consent."
+      },
+      "cookies": {
+        "title": "Cookies",
+        "content": "The website may use essential cookies necessary for functionality and analytics. You can control cookies in your browser settings."
+      },
+      "rights": {
+        "title": "Your rights",
+        "content": "You have the right to request access to, correction or deletion of your personal data. Contact us by email or phone."
+      }
+    }
+  },
+  "terms": {
+    "title": "Terms of Use",
+    "lastUpdated": "Last updated: June 2026.",
+    "intro": "By using the [NAZIV FIRME] website, you accept the following terms. Please read this page carefully.",
+    "sections": {
+      "general": {
+        "title": "General Provisions",
+        "content": "The content of the website is for informational purposes. We make every effort to ensure the accuracy and currency of information, but we cannot guarantee completeness at all times."
+      },
+      "services": {
+        "title": "Services",
+        "content": "All services are provided on the basis of a separate agreement with the family. Service costs depend on the country, distance, documentation and additional requirements."
+      },
+      "liability": {
+        "title": "Limitation of Liability",
+        "content": "[NAZIV FIRME] is liable for actions within its authority and legal obligations. We are not liable for delays caused by unforeseeable circumstances or incomplete information provided to us."
+      },
+      "contact": {
+        "title": "Contact",
+        "content": "For any questions regarding the terms of use, please contact us via the contact page."
+      }
+    }
+  },
+  "home": {
+    "hero": {
+      "title": "International Repatriation of the Deceased and Funeral Services",
+      "subtitle": "Reliable support and complete organisation of transport, documentation and funeral services at home and abroad.",
+      "ctaPrimary": "Call us now",
+      "ctaSecondary": "Send an inquiry",
+      "availability": "Available 24 hours a day, 7 days a week",
+      "trust": "Discreet. Professional. Reliable."
+    },
+    "serviceCards": {
+      "title": "Our Services",
+      "subtitle": "Fast and professional support when you need it most",
+      "items": {
+        "international": {
+          "title": "International Repatriation of the Deceased",
+          "description": "We organise safe and dignified repatriation of the deceased from all European countries to Serbia and vice versa."
+        },
+        "europe": {
+          "title": "Transport from European Countries",
+          "description": "We specialise in repatriation from Germany, Austria, Switzerland, Italy, France and other countries."
+        },
+        "documentation": {
+          "title": "Documentation Handling",
+          "description": "We handle all administration, consulates, translations and legal procedures required for transport."
+        },
+        "equipment": {
+          "title": "Funeral Supplies and Organisation",
+          "description": "We provide complete funeral supplies, floral arrangements and ceremony organisation according to your wishes."
+        }
+      }
+    },
+    "whyChooseUs": {
+      "title": "Why Families Choose Us",
+      "subtitle": "We are dedicated to making the most difficult moments easier for you",
+      "items": {
+        "availability": {
+          "title": "Available 24/7",
+          "description": "We are here for you at any time of day or night, on weekends and holidays."
+        },
+        "response": {
+          "title": "Fast Response and Urgent Dispatch",
+          "description": "We respond quickly and organise everything needed in the shortest possible time."
+        },
+        "team": {
+          "title": "Experienced International Team",
+          "description": "Our team has many years of experience in international transport and administration."
+        },
+        "documentation": {
+          "title": "Complete Documentation",
+          "description": "We handle all paperwork and communication with institutions at home and abroad."
+        },
+        "vehicles": {
+          "title": "Modern Specialised Vehicles",
+          "description": "Our vehicles are technically flawless, air-conditioned and adapted to international standards."
+        },
+        "approach": {
+          "title": "Discreet and Human Approach",
+          "description": "We do everything with empathy, respecting the privacy and dignity of every family."
+        }
+      }
+    },
+    "processSteps": {
+      "title": "How the Process Works",
+      "subtitle": "A simple and transparent procedure in four steps",
+      "steps": {
+        "1": {
+          "title": "Call us",
+          "description": "Call us at any time. You will receive expert support and advice immediately."
+        },
+        "2": {
+          "title": "Agreement and Assessment",
+          "description": "Together we determine the details, country, timeframes and approximate costs of the service."
+        },
+        "3": {
+          "title": "Documentation and Transport Organisation",
+          "description": "We take over the administration, permits and logistics of transport."
+        },
+        "4": {
+          "title": "Safe Arrival and Completion of Service",
+          "description": "The deceased arrives at the desired destination in compliance with all regulations and customs."
+        }
+      }
+    },
+    "internationalTransport": {
+      "title": "International Repatriation",
+      "subtitle": "We organise the repatriation of the deceased from most European countries",
+      "description": "Whether it is Germany, Austria, Switzerland or any other country, we provide complete organisation of transport and documentation.",
+      "countries": [
+        "Transport from Germany",
+        "Transport from Austria",
+        "Transport from Switzerland",
+        "Transport from Italy",
+        "Transport from France",
+        "Transport from other European countries"
+      ],
+      "cta": "View all services"
+    },
+    "fleet": {
+      "title": "Fleet",
+      "subtitle": "Specialised vehicles for international repatriation",
+      "description": "Our vehicles are regularly serviced, technically sound, air-conditioned and equipped to the highest hygiene and safety standards.",
+      "cta": "View the fleet"
+    },
+    "statistics": {
+      "title": "Experience You Can Rely On",
+      "items": {
+        "availability": {
+          "value": "24/7",
+          "label": "availability"
+        },
+        "experience": {
+          "value": "20+",
+          "label": "years of experience"
+        },
+        "countries": {
+          "value": "30+",
+          "label": "countries covered"
+        },
+        "transports": {
+          "value": "1000+",
+          "label": "completed transports"
+        }
+      }
+    },
+    "videoGallery": {
+      "title": "Video Gallery",
+      "subtitle": "Watch our advice, procedural information and service presentations",
+      "cta": "Watch all videos on YouTube"
+    },
+    "blogPreview": {
+      "title": "Useful Information",
+      "subtitle": "Advice and important information for families",
+      "cta": "View all articles"
+    },
+    "faqPreview": {
+      "title": "Frequently Asked Questions",
+      "subtitle": "Answers to the most important questions"
+    },
+    "contactCTA": {
+      "title": "Do you need help? We are here 24/7.",
+      "subtitle": "Call us, send a message via WhatsApp or fill in the contact form."
+    }
+  },
+  "internationalTransportPage": {
+    "hero": {
+      "title": "International Repatriation of the Deceased",
+      "subtitle": "Dignified and safe repatriation of the deceased from all parts of Europe, with complete organisation of documentation and logistics."
+    },
+    "intro": {
+      "title": "Professional Transport Organisation",
+      "paragraphs": [
+        "International repatriation of the deceased requires expertise, attention to detail and compliance with the legal regulations of multiple countries. Our team has many years of experience in organising these transports.",
+        "We provide complete support to families, from the first contact to completion of the service. We take over communication with institutions, consulates and other authorities, so you can focus on what matters most."
+      ]
+    },
+    "countries": {
+      "title": "Repatriation of the Deceased from Europe",
+      "subtitle": "We organise transport from most European countries",
+      "items": [
+        {
+          "name": "Germany",
+          "description": "Fast organisation of transport from all German federal states."
+        },
+        {
+          "name": "Austria",
+          "description": "Complete administration and logistics for transport from Austria."
+        },
+        {
+          "name": "Switzerland",
+          "description": "Organisation of transport in compliance with Swiss regulations."
+        },
+        {
+          "name": "Italy",
+          "description": "Transport from all parts of Italy, including the most remote regions."
+        },
+        {
+          "name": "France",
+          "description": "Professional organisation of transport from France."
+        },
+        {
+          "name": "Belgium",
+          "description": "Fast response and organisation of transport from Belgium."
+        },
+        {
+          "name": "Netherlands",
+          "description": "Complete support for transport from the Netherlands."
+        },
+        {
+          "name": "Sweden",
+          "description": "Organisation of transport from Sweden in accordance with applicable regulations."
+        },
+        {
+          "name": "Norway",
+          "description": "Dignified repatriation of the deceased from Norway."
+        },
+        {
+          "name": "Other European countries",
+          "description": "Contact us for transport from any other European country."
+        }
+      ]
+    },
+    "process": {
+      "title": "How the Procedure Works",
+      "steps": [
+        {
+          "title": "Contact",
+          "description": "Call us at any time. We collect basic information and explain the procedure."
+        },
+        {
+          "title": "Documentation",
+          "description": "We take over the preparation and certification of all required documents."
+        },
+        {
+          "title": "Transport",
+          "description": "We organise safe transport by specialised vehicle to the desired destination."
+        },
+        {
+          "title": "Completion",
+          "description": "The deceased arrives at the destination, and we finalise the remaining administration."
+        }
+      ]
+    },
+    "documentation": {
+      "title": "Required Documentation",
+      "intro": "A certain amount of documentation is required for international repatriation of the deceased. We help you at every step.",
+      "items": [
+        "Medical certificate of cause of death",
+        "Passport or ID card of the deceased",
+        "Transport permit issued by the authorities",
+        "Translations and certifications of documents",
+        "Certificates from consulates and other institutions"
+      ]
+    },
+    "cta": {
+      "title": "Do you need help with transport?",
+      "subtitle": "Contact us 24/7. We are here to help you."
+    }
+  },
+  "documentationPage": {
+    "hero": {
+      "title": "Documentation and Administration",
+      "subtitle": "We handle all paperwork and communication with institutions, so you have one less worry."
+    },
+    "sections": {
+      "whatWeHandle": {
+        "title": "What Documentation We Handle",
+        "paragraphs": [
+          "International repatriation of the deceased requires extensive documentation, including medical certificates, permits, passports, translations and certifications. Our team has experience in handling all these documents.",
+          "We communicate with local authorities, consulates, hospitals, cemeteries and other institutions at home and abroad. Our goal is to make the process as fast and stress-free as possible for the family."
+        ],
+        "items": [
+          "Collection of medical certificates and reports",
+          "Obtaining transport permits",
+          "Translations and certifications of documents",
+          "Communication with consulates and embassies",
+          "Preparation of customs and transport documentation"
+        ]
+      },
+      "procedure": {
+        "title": "How the Procedure Works",
+        "paragraphs": [
+          "After the first contact, we analyse the situation and determine which documents are needed in the specific case. We then take over communication with all relevant authorities.",
+          "We keep the family regularly informed of progress and resolve any uncertainties immediately. Once the documentation is ready, we schedule transport."
+        ]
+      },
+      "whyHelp": {
+        "title": "Why Expert Help Is Important",
+        "paragraphs": [
+          "Incorrect or incomplete documentation can lead to delays in transport and additional costs. That is why it is important to have an experienced partner who knows the procedure.",
+          "Our team is familiar with the regulations of different countries and knows how to efficiently resolve administrative challenges."
+        ]
+      },
+      "family": {
+        "title": "What the Family Needs to Prepare",
+        "paragraphs": [
+          "The family usually only needs to provide basic details about the deceased, such as first name, surname, date of birth, nationality and passport or ID number.",
+          "In some cases a power of attorney or proof of kinship is also required. We provide detailed instructions on what is specifically needed."
+        ]
+      }
+    },
+    "cta": {
+      "title": "Send us an inquiry for help with documentation",
+      "subtitle": "We are here to take over all administration on your behalf."
+    }
+  }
+}

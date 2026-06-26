@@ -1,0 +1,723 @@
+{
+  "metadata": {
+    "home": {
+      "title": "Međunarodni prevoz pokojnika i pogrebne usluge | [NAZIV FIRME]",
+      "description": "Pouzdana podrška i kompletna organizacija prevoza, dokumentacije i pogrebnih usluga u zemlji i inostranstvu. Dostupni 24/7."
+    },
+    "about": {
+      "title": "O nama | [NAZIV FIRME]",
+      "description": "Upoznajte [NAZIV FIRME] – tim posvećen dostojanstvu, profesionalnosti i pouzdanoj međunarodnoj podršci porodicama u teškim trenucima."
+    },
+    "services": {
+      "title": "Usluge | [NAZIV FIRME]",
+      "description": "Pregled svih pogrebnih usluga: međunarodni prevoz pokojnika, dokumentacija, organizacija sahrane, pogrebna oprema i cvetni aranžmani."
+    },
+    "internationalTransport": {
+      "title": "Međunarodni prevoz pokojnika | [NAZIV FIRME]",
+      "description": "Organizujemo prevoz pokojnika iz Nemačke, Austrije, Švajcarske, Italije, Francuske i drugih evropskih zemalja. Brzo, diskretno i profesionalno."
+    },
+    "documentation": {
+      "title": "Dokumentacija i administracija | [NAZIV FIRME]",
+      "description": "Preuzimamo kompletnu dokumentaciju i administraciju potrebnu za međunarodni prevoz pokojnika. Stručna pomoć dostupna 24/7."
+    },
+    "fleet": {
+      "title": "Vozni park | [NAZIV FIRME]",
+      "description": "Savremena specijalizovana vozila za međunarodni prevoz pokojnika. Sigurna, higijenska i klimatizovana vozila najvišeg standarda."
+    },
+    "video": {
+      "title": "Video galerija | [NAZIV FIRME]",
+      "description": "Pogledajte naše savete, informacije o procedurama i predstavljanje usluga [NAZIV FIRME] na YouTube-u."
+    },
+    "blog": {
+      "title": "Blog i korisne informacije | [NAZIV FIRME]",
+      "description": "Korisni tekstovi o međunarodnom prevozu pokojnika, dokumentaciji i postupcima u slučaju smrti u inostranstvu."
+    },
+    "contact": {
+      "title": "Kontakt | [NAZIV FIRME]",
+      "description": "Kontaktirajte [NAZIV FIRME] 24 sata dnevno. Telefon, WhatsApp, email ili kontakt forma – tu smo da vam pomognemo."
+    },
+    "faq": {
+      "title": "Česta pitanja | [NAZIV FIRME]",
+      "description": "Odgovori na najčešća pitanja o međunarodnom prevozu pokojnika, dokumentaciji, rokovima i troškovima."
+    },
+    "privacy": {
+      "title": "Politika privatnosti | [NAZIV FIRME]",
+      "description": "Politika privatnosti [NAZIV FIRME]. Saznajte kako prikupljamo, čuvamo i koristimo vaše lične podatke."
+    },
+    "terms": {
+      "title": "Uslovi korišćenja | [NAZIV FIRME]",
+      "description": "Uslovi korišćenja sajta i usluga [NAZIV FIRME]."
+    }
+  },
+  "navigation": {
+    "home": "Početna",
+    "about": "O nama",
+    "services": "Usluge",
+    "fleet": "Vozni park",
+    "video": "Video",
+    "blog": "Blog",
+    "contact": "Kontakt",
+    "faq": "FAQ",
+    "privacy": "Politika privatnosti",
+    "terms": "Uslovi korišćenja",
+    "internationalTransport": "Međunarodni prevoz pokojnika",
+    "documentation": "Dokumentacija i administracija"
+  },
+  "emergencyBar": {
+    "available": "Dostupni 24/7",
+    "callUs": "Pozovite nas",
+    "whatsapp": "WhatsApp",
+    "email": "Email"
+  },
+  "header": {
+    "cta": "Pozovite nas 24/7",
+    "menu": "Meni",
+    "close": "Zatvori"
+  },
+  "footer": {
+    "description": "Pružamo dostojanstvenu i profesionalnu podršku porodicama u organizaciji međunarodnog prevoza pokojnika i pogrebnih usluga.",
+    "services": "Usluge",
+    "information": "Informacije",
+    "contact": "Kontakt",
+    "social": "Društvene mreže",
+    "youtube": "YouTube",
+    "copyright": "© {year} [NAZIV FIRME]. Sva prava zadržana.",
+    "phone": "Telefon",
+    "address": "Adresa"
+  },
+  "common": {
+    "readMore": "Saznajte više",
+    "viewAll": "Pogledajte sve",
+    "contactUs": "Kontaktirajte nas",
+    "sendInquiry": "Pošaljite upit",
+    "callNow": "Pozovite nas odmah",
+    "learnMore": "Pročitajte više",
+    "watchVideo": "Pogledajte video",
+    "all": "Sve",
+    "search": "Pretraga",
+    "categories": "Kategorije",
+    "relatedArticles": "Povezani članci",
+    "open": "Otvori",
+    "close": "Zatvori",
+    "next": "Sledeće",
+    "previous": "Prethodno",
+    "loading": "Učitavanje...",
+    "error": "Došlo je do greške",
+    "success": "Uspešno poslato",
+    "required": "Obavezno polje",
+    "submit": "Pošalji",
+    "sending": "Slanje..."
+  },
+  "services": {
+    "title": "Naše usluge",
+    "subtitle": "Kompletna podrška za međunarodni prevoz i pogrebne usluge",
+    "description": "Pružamo širok spektar usluga prilagođenih potrebama svake porodice. Od međunarodnog prevoza i administracije do organizacije sahrane i cvetnih aranžmana.",
+    "items": {
+      "medjunarodni-prevoz-pokojnika": {
+        "title": "Međunarodni prevoz pokojnika",
+        "description": "Siguran i dostojanstven prevoz pokojnika iz zemlje u zemlju, uz kompletnu administrativnu podršku."
+      },
+      "prevoz-pokojnika-iz-inostranstva": {
+        "title": "Prevoz pokojnika iz inostranstva",
+        "description": "Organizujemo prevoz iz svih evropskih zemalja ka Srbiji, uz brzu reakciju i stručnu pomoć."
+      },
+      "prevoz-pokojnika-u-srbiji": {
+        "title": "Prevoz pokojnika u Srbiji",
+        "description": "Lokalni prevoz pokojnika unutar Srbije, sa svim potrebnim dozvolama i standardima."
+      },
+      "administracija-i-dokumentacija": {
+        "title": "Administracija i dokumentacija",
+        "description": "Preuzimamo kompletnu papirologiju, prevode, konsulate i komunikaciju sa institucijama."
+      },
+      "organizacija-sahrane": {
+        "title": "Organizacija sahrane",
+        "description": "Pomažemo u organizaciji sve pogrebne svečanosti u dogovoru sa porodicom."
+      },
+      "pogrebna-oprema": {
+        "title": "Pogrebna oprema",
+        "description": "Nudimo kvalitetnu pogrebnu opremu prilagođenu tradiciji i željama porodice."
+      },
+      "cvetni-aranzmani": {
+        "title": "Cvetni aranžmani",
+        "description": "Diskretni i elegantni cvetni aranžmani za dostojanstvo poslednjeg ispraćaja."
+      },
+      "naplata-pogrebnih-troskova": {
+        "title": "Naplata pogrebnih troškova",
+        "description": "Pomažemo u naplati troškova sa osiguranja, penzijskih fondova i drugih izvora."
+      }
+    }
+  },
+  "about": {
+    "title": "O nama",
+    "subtitle": "Porodici koja vam pomaže u najtežim trenucima",
+    "story": {
+      "title": "Naša priča",
+      "paragraphs": [
+        "[NAZIV FIRME] je porodična kompanija posvećena pružanju dostojanstvenih i profesionalnih pogrebnih usluga, sa posebnim fokusom na međunarodni prevoz pokojnika.",
+        "Godinama pomažemo porodicama u Srbiji i inostranstvu da organizuju prevoz voljene osobe sa poštovanjem, diskrecijom i punom pažnjom prema detaljima.",
+        "Razumemo koliko je ovaj trenutak težak. Zato svaki korak radimo saosećajno, jasno i transparentno, kako biste imali podršku na koju možete računati."
+      ]
+    },
+    "mission": {
+      "title": "Misija i vrednosti",
+      "values": {
+        "professionalism": {
+          "title": "Profesionalnost",
+          "description": "Svaki zadatak obavljamo precizno, stručno i u skladu sa međunarodnim standardima."
+        },
+        "dignity": {
+          "title": "Dostojanstvo",
+          "description": "Poštujemo svaku porodicu i pokojnika, uz punu diskreciju i humanost."
+        },
+        "reliability": {
+          "title": "Pouzdanost",
+          "description": "Dostupni smo 24/7 i obavljamo svaku obavezu dogovorenu sa porodicom."
+        },
+        "experience": {
+          "title": "Iskustvo",
+          "description": "Dugogodišnje iskustvo u međunarodnoj logistici i administraciji čini nas sigurnim izborom."
+        }
+      }
+    },
+    "stats": {
+      "title": "Brojke koje govore",
+      "description": "Naše iskustvo je garancija kvaliteta i sigurnosti u svakoj situaciji."
+    }
+  },
+  "fleet": {
+    "title": "Vozni park",
+    "subtitle": "Specijalizovana vozila za dostojanstven prevoz",
+    "description": "Naša vozila su tehnički besprekorna, redovno servisirana i prilagođena najstrožim međunarodnim standardima za prevoz pokojnika.",
+    "safety": {
+      "title": "Sigurnost i higijena na prvom mestu",
+      "description": "Sva vozila opremljena su klimatizacijom, sistemima za očuvanje temperature i higijenskim standardima najvišeg nivoa. Redovno prolaze tehničke preglede i dezinfekciju.",
+      "items": [
+        "Tehnički ispravna i redovno servisirana vozila",
+        "Klimatizovani i higijenski zaštićeni prostor",
+        "Međunarodna dozvola za prevoz",
+        "Iskusni vozači obučeni za dostojanstven prevoz"
+      ]
+    },
+    "items": {
+      "mercedes-sprinter": {
+        "name": "Mercedes-Benz Sprinter",
+        "description": "Specijalizovano vozilo za međunarodni prevoz pokojnika, sa klimatizovanim i higijenski zaštićenim prostorom."
+      },
+      "volkswagen-transporter": {
+        "name": "Volkswagen Transporter",
+        "description": "Pouzdano i ekonomično vozilo, idealno za kraće međunarodne i domaće relacije."
+      },
+      "fiat-ducato": {
+        "name": "Fiat Ducato",
+        "description": "Prostrano vozilo sa visokim standardom udobnosti i sigurnosti tokom transporta."
+      },
+      "renault-master": {
+        "name": "Renault Master",
+        "description": "Savremeno vozilo opremljeno za duge međunarodne relacije uz poštovanje svih propisa."
+      }
+    }
+  },
+  "video": {
+    "title": "Video galerija",
+    "subtitle": "Pogledajte naše savete, informacije o procedurama i predstavljanje naših usluga",
+    "intro": "Naš YouTube kanal je mesto gde delimo korisne informacije, savete i predstavljanje naših usluga. Uverite se u kvalitet i profesionalnost našeg rada.",
+    "categories": {
+      "all": "Sve",
+      "tips": "Saveti",
+      "documentation": "Dokumentacija",
+      "fleet": "Vozni park",
+      "services": "Usluge"
+    },
+    "cta": "Pogledajte sve videe na YouTube-u",
+    "items": {
+      "video-1": {
+        "title": "Kako izgleda međunarodni prevoz pokojnika",
+        "description": "Objašnjavamo ceo proces organizacije prevoza iz inostranstva, od poziva do dolaska."
+      },
+      "video-2": {
+        "title": "Dokumentacija potrebna za prevoz",
+        "description": "Koje dokumente je potrebno pripremiti i kako mi pomažemo u njihovom sređivanju."
+      },
+      "video-3": {
+        "title": "Predstavljanje naših usluga",
+        "description": "Kratak pregled svih usluga koje pružamo porodicama u teškim trenucima."
+      },
+      "video-4": {
+        "title": "Vozni park i standardi",
+        "description": "Upoznajte naša specijalizovana vozila i higijenske standarde koje primenjujemo."
+      },
+      "video-5": {
+        "title": "Saveti za porodice u inostranstvu",
+        "description": "Korisni saveti za postupanje u slučaju smrti bliske osobe u inostranstvu."
+      },
+      "video-6": {
+        "title": "Procedura prijavljivanja i administracija",
+        "description": "Kako izgleda procedura prijavljivanja i preuzimanja dokumentacije od strane našeg tima."
+      }
+    }
+  },
+  "blog": {
+    "title": "Blog i korisne informacije",
+    "subtitle": "Saveti i važne informacije za porodice",
+    "searchPlaceholder": "Pretražite članke...",
+    "categories": {
+      "all": "Sve kategorije",
+      "transport": "Prevoz",
+      "documentation": "Dokumentacija",
+      "advice": "Saveti"
+    },
+    "readTime": "min čitanja",
+    "relatedArticles": "Povezani članci",
+    "articles": {
+      "kako-organizovati-prevoz-pokojnika-iz-inostranstva": {
+        "title": "Kako organizovati prevoz pokojnika iz inostranstva?",
+        "excerpt": "Organizacija međunarodnog prevoza pokojnika može delovati komplikovano, ali uz stručnu pomoć ceo proces može teći brzo i dostojanstveno.",
+        "content": [
+          "Gubitak voljene osobe u inostranstvu donosi brojne izazove, kako emotivne, tako i administrativne. Prvi korak je kontaktiranje stručne službe koja će vam objasniti postupak i pomoći u daljim koracima.",
+          "Nakon prikupljanja osnovnih informacija, naš tim preuzima komunikaciju sa institucijama, konsulatima i drugim organima. Priprema se potrebna dokumentacija, a zatim se zakazuje prevoz.",
+          "Vreme organizacije zavisi od zemlje u kojoj se pokojnik nalazi, kao i od brzine dobijanja dozvola. U najvećem broju slučajeva, ceo proces može biti završen u roku od nekoliko dana."
+        ]
+      },
+      "koja-dokumentacija-je-potrebna-za-medjunarodni-prevoz": {
+        "title": "Koja dokumentacija je potrebna za međunarodni prevoz?",
+        "excerpt": "Za međunarodni prevoz pokojnika potrebno je nekoliko ključnih dokumenata. Evo šta je neophodno i kako mi pomažemo u njihovom sređivanju.",
+        "content": [
+          "Osnovni dokumenti uključuju medicinsku potvrdu o uzroku smrti, pasoš pokojnika, kao i dozvolu za prevoz izdate od strane nadležnih organa zemlje u kojoj je došlo do smrti.",
+          "Pored toga, često su potrebni prevodi dokumenata, overe, kao i potvrde o pokopu ili kremaciji. Naš tim preuzima kompletnu papirologiju i brine se da svi dokumenti budu u redu.",
+          "Porodici je najčešće potrebno da dostavi ličnu dokumentaciju pokojnika i svoje podatke. Sve ostalo preuzimamo mi."
+        ]
+      },
+      "sta-uraditi-u-sucaju-smrti-u-inostranstvu": {
+        "title": "Šta uraditi u slučaju smrti u inostranstvu?",
+        "excerpt": "Smrt voljene osobe u inostranstvu je izuzetno težak trenutak. Saznajte koje su prve mere i kako dobiti stručnu pomoć.",
+        "content": [
+          "Prvo što treba uraditi je kontaktirati lokalne službe hitne pomoći i policiju u zemlji u kojoj se incident dogodio. Nakon toga, potrebno je obavestiti najbližu konzularnu službu Republike Srbije.",
+          "Konzularna služba može pomoći oko informacija i neophodnih dokumenata. U isto vreme, možete kontaktirati i specijalizovanu firmu za međunarodni prevoz pokojnika.",
+          "Naš tim je dostupan 24/7 i može vam pružiti smernice, organizovati prevoz i preuzeti kompletnu administraciju."
+        ]
+      },
+      "troskovi-medjunarodnog-prevoza-pokojnika": {
+        "title": "Troškovi međunarodnog prevoza pokojnika",
+        "excerpt": "Cena međunarodnog prevoza zavisi od više faktora. Objasnjavamo šta utiče na ukupan iznos i kako dobiti preciznu procenu.",
+        "content": [
+          "Glavni faktori koji utiču na cenu su udaljenost između zemalja, vrsta prevoza, dokumentacija, carinski i konsularni troškovi, kao i eventualni dodatni zahtevi porodice.",
+          "Svaka situacija je specifična, zato preporučujemo da nas kontaktirate radi individualne procene. Na osnovu osnovnih informacija možemo vam dati okvirnu cenu u roku od nekoliko sati.",
+          "Trudimo se da budemo transparentni i da porodici objasnimo sve stavke troškova pre početka organizacije."
+        ]
+      },
+      "kako-izabrati-pogrebno-preduzece": {
+        "title": "Kako izabrati pogrebno preduzeće?",
+        "excerpt": "Izbor pouzdane firme za pogrebne usluge je važna odluka. Evo na šta treba obratiti pažnju prilikom izbora.",
+        "content": [
+          "Pre svega, proverite iskustvo firme i reference. Važno je da firma ima iskustva u međunarodnom prevozu i administraciji ako vam je to potrebno.",
+          "Takođe, obratite pažnju na dostupnost – pouzdana firma treba da bude dostupna 24/7, posebno u hitnim situacijama.",
+          "Na kraju, izaberite firmu koja vam pruža jasnu komunikaciju, empatičan odnos i transparentnost u poslovanju."
+        ]
+      }
+    }
+  },
+  "contact": {
+    "title": "Kontaktirajte nas",
+    "subtitle": "Tu smo za vas 24 sata dnevno. Pošaljite upit, nazovite ili pišite putem WhatsApp-a.",
+    "form": {
+      "title": "Pošaljite upit",
+      "description": "Popunite formu i javićemo vam se u najkraćem mogućem roku.",
+      "name": "Ime i prezime",
+      "phone": "Telefon",
+      "email": "Email adresa",
+      "country": "Zemlja iz koje se organizuje prevoz",
+      "city": "Grad",
+      "message": "Poruka",
+      "privacy": "Prihvatam",
+      "privacyLink": "politiku privatnosti",
+      "success": "Hvala vam na poverenju. Javićemo vam se u najkraćem mogućem roku.",
+      "errors": {
+        "nameRequired": "Unesite ime i prezime",
+        "phoneRequired": "Unesite broj telefona",
+        "emailInvalid": "Unesite validnu email adresu",
+        "messageRequired": "Unesite poruku",
+        "privacyRequired": "Morate prihvatiti politiku privatnosti"
+      }
+    },
+    "cards": {
+      "phone": {
+        "title": "Telefon 24/7",
+        "description": "Dostupni smo non-stop za hitne slučajeve i konsultacije."
+      },
+      "whatsapp": {
+        "title": "WhatsApp",
+        "description": "Pišite nam putem WhatsApp-a u bilo koje doba."
+      },
+      "email": {
+        "title": "Email",
+        "description": "Pošaljite nam detaljan upit i odgovorićemo vam brzo."
+      },
+      "address": {
+        "title": "Adresa",
+        "description": "Naša kancelarija nalazi se u centru Beograda."
+      }
+    }
+  },
+  "faq": {
+    "title": "Česta pitanja",
+    "subtitle": "Odgovori na najčešća pitanja o našim uslugama",
+    "description": "Ako imate dodatnih pitanja, slobodno nas kontaktirajte. Tu smo da vam pomognemo.",
+    "items": {
+      "availability": {
+        "question": "Da li ste dostupni 24/7?",
+        "answer": "Da, naše usluge su dostupne 24 sata dnevno, 7 dana u nedelji, uključujući vikende i praznike. Uvek nas možete pozvati u slučaju hitnosti."
+      },
+      "countries": {
+        "question": "Iz kojih zemalja organizujete prevoz?",
+        "answer": "Organizujemo prevoz iz svih evropskih zemalja, uključujući Nemačku, Austriju, Švajcarsku, Italiju, Francusku, Belgiju, Holandiju, Švedsku, Norvešku i mnoge druge."
+      },
+      "documentation": {
+        "question": "Da li preuzimate sređivanje dokumentacije?",
+        "answer": "Da, preuzimamo kompletnu administraciju, uključujući komunikaciju sa konsulatima, prevode, overe i prikupljanje svih potrebnih dozvola."
+      },
+      "duration": {
+        "question": "Koliko traje organizacija prevoza?",
+        "answer": "Vreme zavisi od zemlje i brzine izdavanja dozvola, ali u većini slučajeva prevoz može biti organizovan u roku od 2 do 5 radnih dana."
+      },
+      "costs": {
+        "question": "Kako mogu da dobijem procenu troškova?",
+        "answer": "Možete nas pozvati ili popuniti kontakt formu. Na osnovu zemlje, grada i osnovnih informacija, dobijate besplatnu i neobavezujuću procenu."
+      },
+      "preparation": {
+        "question": "Šta porodica treba da pripremi?",
+        "answer": "Porodici je najčešće potrebno da dostavi ličnu dokumentaciju pokojnika i svoje kontakt podatke. Svu ostalu dokumentaciju i logistiku preuzimamo mi."
+      }
+    }
+  },
+  "privacy": {
+    "title": "Politika privatnosti",
+    "lastUpdated": "Poslednja izmena: jun 2026.",
+    "intro": "[NAZIV FIRME] se obavezuje da zaštiti privatnost svih korisnika sajta i klijenata. Ova politika objašnjava kako prikupljamo, koristimo i čuvamo vaše lične podatke.",
+    "sections": {
+      "data": {
+        "title": "Koje podatke prikupljamo",
+        "content": "Prikupljamo samo podatke neophodne za pružanje usluga: ime i prezime, kontakt telefon, email adresu, zemlju i grad iz koga se organizuje prevoz, kao i sadržaj poruke."
+      },
+      "use": {
+        "title": "Kako koristimo podatke",
+        "content": "Vaše podatke koristimo isključivo za komunikaciju, pripremu ponude i organizaciju usluga koje ste zatražili. Ne delimo vaše podatke sa trećim licima bez vaše saglasnosti."
+      },
+      "cookies": {
+        "title": "Kolačići",
+        "content": "Sajt može koristiti osnovne kolačiće neophodne za funkcionalnost i analitiku. Možete kontrolisati kolačiće u podešavanjima vašeg pregledača."
+      },
+      "rights": {
+        "title": "Vaša prava",
+        "content": "Imate pravo da zatražite uvid, ispravku ili brisanje vaših ličnih podataka. Kontaktirajte nas putem emaila ili telefona."
+      }
+    }
+  },
+  "terms": {
+    "title": "Uslovi korišćenja",
+    "lastUpdated": "Poslednja izmena: jun 2026.",
+    "intro": "Korišćenjem sajta [NAZIV FIRME] prihvatate sledeće uslove. Molimo vas da pažljivo pročitate ovu stranicu.",
+    "sections": {
+      "general": {
+        "title": "Opšte odredbe",
+        "content": "Sadržaj sajta ima informativni karakter. Za tačnost i aktuelnost informacija brinemo se maksimalno, ali ne možemo garantovati kompletnost u svakom trenutku."
+      },
+      "services": {
+        "title": "Usluge",
+        "content": "Sve usluge se pružaju na osnovu posebnog dogovora sa porodicom. Troškovi usluga zavise od zemlje, udaljenosti, dokumentacije i dodatnih zahteva."
+      },
+      "liability": {
+        "title": "Ograničenje odgovornosti",
+        "content": "[NAZIV FIRME] odgovara za radnje u okviru svojih ovlašćenja i zakonskih obaveza. Ne odgovaramo za kašnjenja nastala usled nepredvidivih okolnosti ili nepotpunih informacija koje su nam dostavljene."
+      },
+      "contact": {
+        "title": "Kontakt",
+        "content": "Za sva pitanja u vezi sa uslovima korišćenja, kontaktirajte nas putem kontakt stranice."
+      }
+    }
+  },
+  "home": {
+    "hero": {
+      "title": "Međunarodni prevoz pokojnika i pogrebne usluge",
+      "subtitle": "Pouzdana podrška i kompletna organizacija prevoza, dokumentacije i pogrebnih usluga u zemlji i inostranstvu.",
+      "ctaPrimary": "Pozovite nas odmah",
+      "ctaSecondary": "Pošaljite upit",
+      "availability": "Dostupni 24 sata dnevno, 7 dana u nedelji",
+      "trust": "Diskretno. Profesionalno. Pouzdano."
+    },
+    "serviceCards": {
+      "title": "Naše usluge",
+      "subtitle": "Brza i profesionalna podrška kada vam je najpotrebnija",
+      "items": {
+        "international": {
+          "title": "Međunarodni prevoz pokojnika",
+          "description": "Organizujemo siguran i dostojanstven prevoz pokojnika iz svih evropskih zemalja ka Srbiji i obrnuto."
+        },
+        "europe": {
+          "title": "Prevoz iz evropskih zemalja",
+          "description": "Specijalizovani smo za prevoz iz Nemačke, Austrije, Švajcarske, Italije, Francuske i drugih zemalja."
+        },
+        "documentation": {
+          "title": "Sređivanje dokumentacije",
+          "description": "Preuzimamo kompletnu administraciju, konsulate, prevode i pravne procedure potrebne za prevoz."
+        },
+        "equipment": {
+          "title": "Pogrebna oprema i organizacija",
+          "description": "Pružamo kompletnu pogrebnu opremu, cvetne aranžmane i organizaciju svečanosti po vašim željama."
+        }
+      }
+    },
+    "whyChooseUs": {
+      "title": "Zašto porodice biraju nas",
+      "subtitle": "Posvećeni smo tome da vam olakšamo najteže trenutke",
+      "items": {
+        "availability": {
+          "title": "Dostupni 24/7",
+          "description": "Tu smo za vas u svako doba dana i noći, vikendom i praznicima."
+        },
+        "response": {
+          "title": "Brz odgovor i hitan izlazak",
+          "description": "Brzo reagujemo i organizujemo sve potrebno u najkraćem mogućem roku."
+        },
+        "team": {
+          "title": "Iskusan međunarodni tim",
+          "description": "Naš tim poseduje dugogodišnje iskustvo u međunarodnom prevozu i administraciji."
+        },
+        "documentation": {
+          "title": "Kompletna dokumentacija",
+          "description": "Preuzimamo celokupnu papirologiju i komunikaciju sa institucijama u zemlji i inostranstvu."
+        },
+        "vehicles": {
+          "title": "Savremena specijalizovana vozila",
+          "description": "Naša vozila su tehnički besprekorna, klimatizovana i prilagođena međunarodnim standardima."
+        },
+        "approach": {
+          "title": "Diskretan i ljudski pristup",
+          "description": "Sve radimo saosećajno, uz poštovanje privatnosti i dostojanstva svake porodice."
+        }
+      }
+    },
+    "processSteps": {
+      "title": "Kako izgleda proces",
+      "subtitle": "Jednostavan i transparentan postupak u četiri koraka",
+      "steps": {
+        "1": {
+          "title": "Pozovite nas",
+          "description": "Nazovite nas bilo kad. Dobićete stručnu podršku i savet odmah."
+        },
+        "2": {
+          "title": "Dogovor i procena",
+          "description": "Zajedno utvrdimo detalje, zemlju, rokove i priblične troškove usluge."
+        },
+        "3": {
+          "title": "Organizacija dokumentacije i prevoza",
+          "description": "Mi preuzimamo administraciju, dozvole i logistiku prevoza."
+        },
+        "4": {
+          "title": "Siguran dolazak i završetak usluge",
+          "description": "Pokojnik stiže na željenu destinaciju uz poštovanje svih propisa i običaja."
+        }
+      }
+    },
+    "internationalTransport": {
+      "title": "Međunarodni prevoz",
+      "subtitle": "Organizujemo prevoz pokojnika iz većine evropskih zemalja",
+      "description": "Bilo da je reč o Nemačkoj, Austriji, Švajcarskoj ili bilo kojoj drugoj zemlji, pružamo kompletnu organizaciju prevoza i dokumentacije.",
+      "countries": [
+        "Prevoz iz Nemačke",
+        "Prevoz iz Austrije",
+        "Prevoz iz Švajcarske",
+        "Prevoz iz Italije",
+        "Prevoz iz Francuske",
+        "Prevoz iz ostalih evropskih zemalja"
+      ],
+      "cta": "Pogledajte sve usluge"
+    },
+    "fleet": {
+      "title": "Vozni park",
+      "subtitle": "Specijalizovana vozila za međunarodni prevoz",
+      "description": "Naša vozila su redovno servisirana, tehnički ispravna, klimatizovana i opremljena po najvišim higijenskim i sigurnosnim standardima.",
+      "cta": "Pogledajte vozni park"
+    },
+    "statistics": {
+      "title": "Iskustvo na koje možete računati",
+      "items": {
+        "availability": {
+          "value": "24/7",
+          "label": "dostupnost"
+        },
+        "experience": {
+          "value": "20+",
+          "label": "godina iskustva"
+        },
+        "countries": {
+          "value": "30+",
+          "label": "zemalja pokrivenosti"
+        },
+        "transports": {
+          "value": "1000+",
+          "label": "realizovanih prevoza"
+        }
+      }
+    },
+    "videoGallery": {
+      "title": "Video galerija",
+      "subtitle": "Pogledajte naše savete, informacije o procedurama i predstavljanje usluga",
+      "cta": "Pogledajte sve videe na YouTube-u"
+    },
+    "blogPreview": {
+      "title": "Korisne informacije",
+      "subtitle": "Saveti i važne informacije za porodice",
+      "cta": "Pogledajte sve članke"
+    },
+    "faqPreview": {
+      "title": "Česta pitanja",
+      "subtitle": "Odgovori na najvažnija pitanja"
+    },
+    "contactCTA": {
+      "title": "Potrebna vam je pomoć? Tu smo 24/7.",
+      "subtitle": "Nazovite nas, pošaljite poruku putem WhatsApp-a ili popunite kontakt formu."
+    }
+  },
+  "internationalTransportPage": {
+    "hero": {
+      "title": "Međunarodni prevoz pokojnika",
+      "subtitle": "Dostojanstven i siguran prevoz pokojnika iz svih delova Evrope, uz kompletnu organizaciju dokumentacije i logistike."
+    },
+    "intro": {
+      "title": "Profesionalna organizacija prevoza",
+      "paragraphs": [
+        "Međunarodni prevoz pokojnika zahteva stručnost, pažnju prema detaljima i poštovanje zakonskih propisa više zemalja. Naš tim ima dugogodišnje iskustvo u organizaciji ovih prevoza.",
+        "Pružamo kompletnu podršku porodicama, od prvog kontakta do završetka usluge. Preuzimamo komunikaciju sa institucijama, konsulatima i drugim organima, kako biste vi mogli da se posvetite važnijim stvarima."
+      ]
+    },
+    "countries": {
+      "title": "Prevoz pokojnika iz Evrope",
+      "subtitle": "Organizujemo prevoz iz većine evropskih zemalja",
+      "items": [
+        {
+          "name": "Nemačka",
+          "description": "Brza organizacija prevoza iz svih nemačkih saveznih država."
+        },
+        {
+          "name": "Austrija",
+          "description": "Kompletna administracija i logistika za prevoz iz Austrije."
+        },
+        {
+          "name": "Švajcarska",
+          "description": "Organizacija prevoza uz poštovanje švajcarskih propisa."
+        },
+        {
+          "name": "Italija",
+          "description": "Prevoz iz svih delova Italije, uključujući i najudaljenije regione."
+        },
+        {
+          "name": "Francuska",
+          "description": "Profesionalna organizacija prevoza iz Francuske."
+        },
+        {
+          "name": "Belgija",
+          "description": "Brza reakcija i organizacija prevoza iz Belgije."
+        },
+        {
+          "name": "Holandija",
+          "description": "Kompletna podrška za prevoz iz Holandije."
+        },
+        {
+          "name": "Švedska",
+          "description": "Organizacija prevoza iz Švedske po važećim propisima."
+        },
+        {
+          "name": "Norveška",
+          "description": "Dostojanstven prevoz pokojnika iz Norveške."
+        },
+        {
+          "name": "Ostale zemlje Evrope",
+          "description": "Kontaktirajte nas za prevoz iz bilo koje druge evropske zemlje."
+        }
+      ]
+    },
+    "process": {
+      "title": "Kako izgleda postupak",
+      "steps": [
+        {
+          "title": "Kontakt",
+          "description": "Nazovite nas bilo kad. Prikupljamo osnovne informacije i objašnjavamo postupak."
+        },
+        {
+          "title": "Dokumentacija",
+          "description": "Preuzimamo pripremu i overu svih potrebnih dokumenata."
+        },
+        {
+          "title": "Prevoz",
+          "description": "Organizujemo siguran prevoz specijalizovanim vozilom do željene destinacije."
+        },
+        {
+          "title": "Završetak",
+          "description": "Pokojnik stiže na odredište, a mi završavamo preostalu administraciju."
+        }
+      ]
+    },
+    "documentation": {
+      "title": "Potrebna dokumentacija",
+      "intro": "Za međunarodni prevoz pokojnika neophodno je pripremiti određenu dokumentaciju. Mi vam pomažemo u svakom koraku.",
+      "items": [
+        "Medicinska potvrda o uzroku smrti",
+        "Pasoš ili lična karta pokojnika",
+        "Dozvola za prevoz izdate od strane nadležnih organa",
+        "Prevodi i overe dokumenata",
+        "Potvrde od konsulata i drugih institucija"
+      ]
+    },
+    "cta": {
+      "title": "Potrebna vam je pomoć oko prevoza?",
+      "subtitle": "Kontaktirajte nas 24/7. Tu smo da vam pomognemo."
+    }
+  },
+  "documentationPage": {
+    "hero": {
+      "title": "Dokumentacija i administracija",
+      "subtitle": "Preuzimamo kompletnu papirologiju i komunikaciju sa institucijama, kako biste vi imali jednu brigu manje."
+    },
+    "sections": {
+      "whatWeHandle": {
+        "title": "Koju dokumentaciju preuzimamo",
+        "paragraphs": [
+          "Za međunarodni prevoz pokojnika potrebna je obimna dokumentacija, koja uključuje medicinske potvrde, dozvole, pasoše, prevode i overe. Naš tim ima iskustvo u radu sa svim ovim dokumentima.",
+          "Komuniciramo sa lokalnim organima, konsulatima, bolnicama, grobljima i drugim institucijama u zemlji i inostranstvu. Cilj nam je da proces bude što brži i bez stresa za porodicu."
+        ],
+        "items": [
+          "Prikupljanje medicinskih potvrda i izveštaja",
+          "Dobijanje dozvola za prevoz",
+          "Prevodi i overe dokumenata",
+          "Komunikacija sa konsulatima i ambasadama",
+          "Priprema carinske i prevozne dokumentacije"
+        ]
+      },
+      "procedure": {
+        "title": "Kako izgleda procedura",
+        "paragraphs": [
+          "Nakon prvog kontakta, analiziramo situaciju i utvrdimo koji su dokumenti potrebni u konkretnom slučaju. Zatim preuzimamo komunikaciju sa svim nadležnim organima.",
+          "Porodicu redovno obaveštavamo o napretku i sve nedoumice rešavamo odmah. Kada dokumentacija bude spremna, zakazujemo prevoz."
+        ]
+      },
+      "whyHelp": {
+        "title": "Zašto je važna stručna pomoć",
+        "paragraphs": [
+          "Neispravna ili nepotpuna dokumentacija može dovesti do odlaganja prevoza i dodatnih troškova. Zato je važno imati iskusnog partnera koji poznaje proceduru.",
+          "Naš tim poznaje propise različitih zemalja i zna kako efikasno rešavati administrativne izazove."
+        ]
+      },
+      "family": {
+        "title": "Šta porodica treba da pripremi",
+        "paragraphs": [
+          "Porodici je najčešće potrebno da dostavi osnovne podatke o pokojniku, kao što su ime, prezime, datum rođenja, državljanstvo i broj pasoša ili lične karte.",
+          "U nekim slučajevima potrebno je i punomoćje ili potvrda o srodstvu. Mi vas detaljno uputimo šta je konkretno potrebno."
+        ]
+      }
+    },
+    "cta": {
+      "title": "Pošaljite nam upit za pomoć oko dokumentacije",
+      "subtitle": "Tu smo da preuzmemo svu administraciju u vaše ime."
+    }
+  }
+}

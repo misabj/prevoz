@@ -1,36 +1,100 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# [NAZIV FIRME]
 
-## Getting Started
+Moderan, responzivan i višejezični website za firmu koja pruža međunarodne pogrebne usluge i prevoz pokojnika. Dizajn je svetao, dostojanstven i premium, sa fokusom na poverenje, dostupnost 24/7 i jednostavno kontaktiranje.
 
-First, run the development server:
+## Tehnologije
+
+- [Next.js 16](https://nextjs.org/) sa App Router pristupom
+- [TypeScript](https://www.typescriptlang.org/)
+- [Tailwind CSS 4](https://tailwindcss.com/)
+- [next-intl](https://next-intl-docs.vercel.app/) za višejezičnost
+- [lucide-react](https://lucide.dev/) za ikonice
+- [Framer Motion](https://www.framer.com/motion/) za suptilne animacije
+
+## Jezici i URL struktura
+
+- Srpski: `/sr`
+- English: `/en`
+- Deutsch: `/de`
+
+## Glavne stranice
+
+- Početna / Home / Startseite
+- O nama / About us / Über uns
+- Usluge / Services / Dienstleistungen
+- Međunarodni prevoz pokojnika
+- Dokumentacija i administracija
+- Vozni park / Fleet / Fuhrpark
+- Video galerija
+- Blog / Korisne informacije
+- Kontakt / Contact / Kontakt
+- FAQ
+- Politika privatnosti
+- Uslovi korišćenja
+
+## Pokretanje razvojnog servera
 
 ```bash
+npm install
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Sajt je dostupan na `http://localhost:3000/sr`.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## Build
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+```bash
+npm run build
+```
 
-## Learn More
+## Struktura projekta
 
-To learn more about Next.js, take a look at the following resources:
+```
+prevoz/
+├── app/
+│   ├── [locale]/          # Lokalizovane stranice
+│   ├── layout.tsx         # Root layout
+│   ├── page.tsx           # Redirect na default locale
+│   ├── robots.ts          # robots.txt
+│   └── sitemap.ts         # XML sitemap
+├── components/
+│   ├── home/              # Sekcije početne stranice
+│   ├── layout/            # Header, Footer, MobileMenu...
+│   ├── shared/            # Reusable komponente
+│   ├── blog/              # Blog client komponente
+│   └── video/             # Video client komponente
+├── config/
+│   └── site.ts            # Podaci firme (lako izmenjivi)
+├── data/
+│   ├── services.ts        # Podaci o uslugama
+│   ├── vehicles.ts        # Podaci o vozilima
+│   ├── videos.ts          # YouTube video podaci
+│   ├── blog.ts            # Blog članci
+│   └── faq.ts             # FAQ pitanja
+├── messages/
+│   ├── sr.json            # Srpski prevodi
+│   ├── en.json            # English prevodi
+│   └── de.json            # Deutsch prevodi
+├── i18n/
+│   ├── routing.ts         # Locale konfiguracija
+│   ├── navigation.ts      # Lokalizovani Link
+│   └── request.ts         # Učitavanje prevoda
+└── lib/
+    └── utils.ts           # Pomoćne funkcije
+```
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## Izmena podataka firme
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+Svi osnovni podaci firme (naziv, telefoni, email, adresa, društvene mreže) nalaze se u:
 
-## Deploy on Vercel
+```
+src/config/site.ts
+```
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## Slike
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+Slike se učitavaju preko `next/image`. Za demo sadržaj korišćene su fotografije sa Unsplash-a. Pre produkcije preporučuje se zamena licenciranim fotografijama firme.
+
+## Napomena
+
+Kontakt forma trenutno koristi mock submit handler. Za povezivanje sa stvarnim servisom (EmailJS, Resend API, PHP endpoint) potrebno je izmeniti `handleSubmit` funkciju u `src/components/shared/ContactForm.tsx`.
