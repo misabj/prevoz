@@ -77,14 +77,9 @@ export default async function AboutPage({
         </div>
       </section>
 
-      <section className="py-20 bg-accent text-white">
+      <section className="py-10 bg-accent text-white">
         <div className="container mx-auto px-4">
-          <h2 className="text-3xl md:text-4xl font-display text-center mb-4">
-            {t("stats.title")}
-          </h2>
-          <p className="text-white/80 text-center max-w-2xl mx-auto mb-12">
-            {t("stats.description")}
-          </p>
+          
           <div className="grid grid-cols-2 md:grid-cols-4 gap-4 md:gap-8">
             {stats.map((key) => (
               <div key={key} className="text-center">
